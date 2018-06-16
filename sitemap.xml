@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://www.hetschetboek.nl/index.html</loc>
-    <lastmod>2018-06-16</lastmod>
+    <lastmod>2018-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://www.hetschetboek.nl/phone/index.html"/>
@@ -33,7 +33,7 @@
   </url>
   <url>
     <loc>http://www.hetschetboek.nl/harri%C3%ABt-van-reek.html</loc>
-    <lastmod>2018-06-16</lastmod>
+    <lastmod>2018-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -99,7 +99,7 @@
   </url>
   <url>
     <loc>http://www.hetschetboek.nl/jesse-strikwerda.html</loc>
-    <lastmod>2018-06-16</lastmod>
+    <lastmod>2018-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -165,7 +165,7 @@
   </url>
   <url>
     <loc>http://www.hetschetboek.nl/geerten-ten-bosch.html</loc>
-    <lastmod>2018-06-16</lastmod>
+    <lastmod>2018-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://www.hetschetboek.nl/phone/geerten-ten-bosch.html"/>
