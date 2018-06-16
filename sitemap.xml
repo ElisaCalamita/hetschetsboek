@@ -10,27 +10,26 @@
       <image:loc>http://www.hetschetboek.nl/images/portret-crop-u3186.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.hetschetboek.nl/images/schetsboek%20website898x489.png</image:loc>
+      <image:loc>http://www.hetschetboek.nl/images/schetsboek%20website.png</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://www.hetschetboek.nl/tablet/harriet.html</loc>
-    <lastmod>2018-06-15</lastmod>
+    <lastmod>2018-06-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.hetschetboek.nl/tablet/jesse.html</loc>
-    <lastmod>2018-06-15</lastmod>
+    <lastmod>2018-06-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.hetschetboek.nl/tablet/geerten.html</loc>
-    <lastmod>2018-06-15</lastmod>
+    <lastmod>2018-06-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://www.hetschetboek.nl/phone/geerten.html"/>
   </url>
   <url>
     <loc>http://www.hetschetboek.nl/harri%C3%ABt-van-reek.html</loc>
@@ -103,11 +102,21 @@
     <lastmod>2018-06-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://www.hetschetboek.nl/phone/geerten-ten-bosch.html"/>
     <image:image>
       <image:loc>http://www.hetschetboek.nl/images/18-crop-u1667.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://www.hetschetboek.nl/images/1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.hetschetboek.nl/images/10.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://www.hetschetboek.nl/images/20-crop-u114.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.hetschetboek.nl/images/2.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.hetschetboek.nl/images/19).jpg</image:loc>
@@ -119,58 +128,49 @@
       <image:loc>http://www.hetschetboek.nl/images/21.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://www.hetschetboek.nl/images/7.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.hetschetboek.nl/images/5.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.hetschetboek.nl/images/11.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.hetschetboek.nl/images/6.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://www.hetschetboek.nl/images/17.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.hetschetboek.nl/images/15.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.hetschetboek.nl/images/16.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.hetschetboek.nl/images/12.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://www.hetschetboek.nl/images/4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.hetschetboek.nl/images/9.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://www.hetschetboek.nl/images/8-crop-u282.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://www.hetschetboek.nl/images/14.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.hetschetboek.nl/images/3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.hetschetboek.nl/images/22.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://www.hetschetboek.nl/images/portret.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.hetschetboek.nl/images/1298x414.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.hetschetboek.nl/images/10158x220.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.hetschetboek.nl/images/2157x220.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.hetschetboek.nl/images/9137x194.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.hetschetboek.nl/images/7206x288.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.hetschetboek.nl/images/5209x288.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.hetschetboek.nl/images/11207x288.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.hetschetboek.nl/images/6217x305.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.hetschetboek.nl/images/15221x306.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.hetschetboek.nl/images/16196x141.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.hetschetboek.nl/images/4275x194.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.hetschetboek.nl/images/14284x202.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.hetschetboek.nl/images/3285x203.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.hetschetboek.nl/images/22286x397.jpg</image:loc>
     </image:image>
   </url>
   <url>
