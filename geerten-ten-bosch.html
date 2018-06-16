@@ -998,9 +998,11 @@ var togglePlay16 = function() {
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <script>
-<audio>
-var schilderij = new Audio();
-schilderij.src = 'hetschetsboek/assets/17.mp3';
+<audio var schilderij = new Audio();
+             <source schilderij.src = 'hetschetsboek/assets/17.mp3';><!-- Hide -->
+			<!--<source src="Add File"><!-- Hide -->
+			<!--<source src="Add File"><!-- Hide -->
+			</audio>
 
 var togglePlay17 = function() {
   if (schilderij.paused) {
@@ -1009,7 +1011,7 @@ var togglePlay17 = function() {
     schilderij.pause();
   }
 }
-</audio>
+
 </script>
 <style>
 .container {
