@@ -7,29 +7,11 @@
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://www.hetschetboek.nl/phone/index.html"/>
     <image:image>
-      <image:loc>http://www.hetschetboek.nl/images/portret-crop-u3186.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.hetschetboek.nl/images/schetsboek%20website.png</image:loc>
     </image:image>
-  </url>
-  <url>
-    <loc>http://www.hetschetboek.nl/tablet/harriet.html</loc>
-    <lastmod>2018-06-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.hetschetboek.nl/tablet/jesse.html</loc>
-    <lastmod>2018-06-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.hetschetboek.nl/tablet/geerten.html</loc>
-    <lastmod>2018-06-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://www.hetschetboek.nl/images/portret-crop-u3186.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://www.hetschetboek.nl/harri%C3%ABt-van-reek.html</loc>
@@ -98,82 +80,6 @@
     </image:image>
   </url>
   <url>
-    <loc>http://www.hetschetboek.nl/geerten-ten-bosch.html</loc>
-    <lastmod>2018-06-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://www.hetschetboek.nl/phone/geerten-ten-bosch.html"/>
-    <image:image>
-      <image:loc>http://www.hetschetboek.nl/images/18-crop-u1667.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.hetschetboek.nl/images/1.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.hetschetboek.nl/images/10.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.hetschetboek.nl/images/20-crop-u114.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.hetschetboek.nl/images/2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.hetschetboek.nl/images/19).jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.hetschetboek.nl/images/13.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.hetschetboek.nl/images/21.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.hetschetboek.nl/images/7.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.hetschetboek.nl/images/5.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.hetschetboek.nl/images/11.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.hetschetboek.nl/images/6.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.hetschetboek.nl/images/17.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.hetschetboek.nl/images/15.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.hetschetboek.nl/images/16.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.hetschetboek.nl/images/12.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.hetschetboek.nl/images/4.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.hetschetboek.nl/images/9.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.hetschetboek.nl/images/8-crop-u282.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.hetschetboek.nl/images/14.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.hetschetboek.nl/images/3.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.hetschetboek.nl/images/22.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.hetschetboek.nl/images/portret.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
     <loc>http://www.hetschetboek.nl/jesse-strikwerda.html</loc>
     <lastmod>2018-06-16</lastmod>
     <changefreq>weekly</changefreq>
@@ -183,12 +89,6 @@
     </image:image>
     <image:image>
       <image:loc>http://www.hetschetboek.nl/images/jesse2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.hetschetboek.nl/images/jesse160x47.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.hetschetboek.nl/images/jesse267x45.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.hetschetboek.nl/images/jesse3.jpg</image:loc>
@@ -207,6 +107,12 @@
     </image:image>
     <image:image>
       <image:loc>http://www.hetschetboek.nl/images/jesse8.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.hetschetboek.nl/images/jesse160x47.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.hetschetboek.nl/images/jesse267x45.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.hetschetboek.nl/images/jesse3-crop-u3317.jpg</image:loc>
@@ -228,20 +134,96 @@
     </image:image>
   </url>
   <url>
-    <loc>http://www.hetschetboek.nl/assets/5.mp3</loc>
-    <lastmod>2018-05-28</lastmod>
+    <loc>http://www.hetschetboek.nl/tablet/jesse.html</loc>
+    <lastmod>2018-06-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.hetschetboek.nl/assets/8.mp3</loc>
-    <lastmod>2018-05-28</lastmod>
+    <loc>http://www.hetschetboek.nl/tablet/harriet.html</loc>
+    <lastmod>2018-06-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.hetschetboek.nl/assets/10.mp3</loc>
-    <lastmod>2018-05-29</lastmod>
+    <loc>http://www.hetschetboek.nl/geerten-ten-bosch.html</loc>
+    <lastmod>2018-06-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://www.hetschetboek.nl/phone/geerten-ten-bosch.html"/>
+    <image:image>
+      <image:loc>http://www.hetschetboek.nl/images/13.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.hetschetboek.nl/images/21.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.hetschetboek.nl/images/7.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.hetschetboek.nl/images/10.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.hetschetboek.nl/images/5.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.hetschetboek.nl/images/11.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.hetschetboek.nl/images/2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.hetschetboek.nl/images/15.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.hetschetboek.nl/images/6.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.hetschetboek.nl/images/16.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.hetschetboek.nl/images/14.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.hetschetboek.nl/images/3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.hetschetboek.nl/images/12.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.hetschetboek.nl/images/19).jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.hetschetboek.nl/images/4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.hetschetboek.nl/images/17.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.hetschetboek.nl/images/9.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.hetschetboek.nl/images/portret.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.hetschetboek.nl/images/18-crop-u1667.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.hetschetboek.nl/images/1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.hetschetboek.nl/images/20-crop-u114.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.hetschetboek.nl/images/8-crop-u282.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.hetschetboek.nl/images/22.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://www.hetschetboek.nl/tablet/geerten.html</loc>
+    <lastmod>2018-06-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -336,26 +318,26 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.hetschetboek.nl/assets/masker.mp3</loc>
-    <lastmod>2018-03-13</lastmod>
+    <loc>http://www.hetschetboek.nl/assets/9.mp3</loc>
+    <lastmod>2018-06-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.hetschetboek.nl/assets/1-3</loc>
+    <loc>http://www.hetschetboek.nl/assets/1.mp3</loc>
+    <lastmod>2018-06-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hetschetboek.nl/assets/5.mp3</loc>
     <lastmod>2018-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.hetschetboek.nl/assets/1.jpg</loc>
-    <lastmod>2018-05-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.hetschetboek.nl/assets/2).mp3</loc>
-    <lastmod>2018-06-04</lastmod>
+    <loc>http://www.hetschetboek.nl/assets/10.mp3</loc>
+    <lastmod>2018-05-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -468,14 +450,26 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.hetschetboek.nl/assets/car-driving-interior-ambience.mp3</loc>
-    <lastmod>2017-10-23</lastmod>
+    <loc>http://www.hetschetboek.nl/assets/8.mp3</loc>
+    <lastmod>2018-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.hetschetboek.nl/assets/1.mp3</loc>
-    <lastmod>2018-06-02</lastmod>
+    <loc>http://www.hetschetboek.nl/assets/masker.mp3</loc>
+    <lastmod>2018-03-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hetschetboek.nl/assets/1.jpg</loc>
+    <lastmod>2018-05-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hetschetboek.nl/assets/1-3</loc>
+    <lastmod>2018-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -486,8 +480,14 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.hetschetboek.nl/assets/9.mp3</loc>
-    <lastmod>2018-06-02</lastmod>
+    <loc>http://www.hetschetboek.nl/assets/car-driving-interior-ambience.mp3</loc>
+    <lastmod>2017-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hetschetboek.nl/assets/2).mp3</loc>
+    <lastmod>2018-06-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
