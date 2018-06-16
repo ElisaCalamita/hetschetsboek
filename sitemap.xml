@@ -7,9 +7,6 @@
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://www.hetschetboek.nl/phone/index.html"/>
     <image:image>
-      <image:loc>http://www.hetschetboek.nl/images/schetsboek%20website.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.hetschetboek.nl/images/portret-crop-u3186.jpg</image:loc>
     </image:image>
     <image:image>
@@ -19,16 +16,16 @@
       <image:loc>http://www.hetschetboek.nl/images/portret-crop-u31863.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.hetschetboek.nl/images/schetsboek%20website448x244.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.hetschetboek.nl/images/schetsboek%20website334x182.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.hetschetboek.nl/images/portret-crop-u31864.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.hetschetboek.nl/images/schetsboek%20website898x489.png</image:loc>
+      <image:loc>http://www.hetschetboek.nl/images/hetschetsboek%20definitief.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.hetschetboek.nl/images/hetschetsboek%20definitief448x245.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.hetschetboek.nl/images/hetschetsboek%20definitief334x183.png</image:loc>
     </image:image>
   </url>
   <url>
