@@ -5,6 +5,7 @@
     <lastmod>2018-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://www.hetschetboek.nl/phone/index.html"/>
     <image:image>
       <image:loc>http://www.hetschetboek.nl/images/schetsboek%20website.png</image:loc>
     </image:image>

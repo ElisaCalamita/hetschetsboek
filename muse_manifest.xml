@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.hetschetboek.nl" resolutions="1x" timestamp="1529161637173">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.hetschetboek.nl" resolutions="1x" timestamp="1529177144361">
   <folder name="tablet">
     <folder name="css">
       <file name="geerten.css" crc="4021538510" ref="tablet>geerten"/>
@@ -15,10 +15,10 @@
     <folder name="css">
       <file name="harriet.css" crc="62426684" ref="phone>harriet"/>
       <file name="jesse.css" crc="62426684" ref="phone>jesse"/>
-      <file name="index.css" crc="62426684" ref="phone>index"/>
+      <file name="index.css" crc="179139189" ref="phone>index"/>
       <file name="geerten.css" crc="4291582275" ref="phone>geerten"/>
     </folder>
-    <file name="index.html" crc="4051797510" seo="true" mt="1528922842148" redirect="false"/>
+    <file name="index.html" crc="388897586" seo="true" mt="1529177132791" redirect="true"/>
     <file name="geerten.html" crc="304471278" seo="true" mt="1529160381199" redirect="true"/>
     <file name="harriet.html" crc="4055895200" seo="true" mt="1529049583574" redirect="false"/>
     <file name="jesse.html" crc="501507004" seo="true" mt="1529049589855" redirect="false"/>
@@ -395,8 +395,15 @@
     <file name="u4681-4.png" crc="3923628134" ref="phone>geerten"/>
     <file name="u4687-4.png" crc="4156195121" ref="phone>geerten"/>
     <file name="u4693-4.png" crc="3974312769" ref="phone>geerten"/>
+    <file name="schetsboek website378x206.png" crc="518019334" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u4749-4.png" crc="3948679615" ref="phone>index"/>
+    <file name="portret-crop-u4750.jpg" crc="4150690599" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="72718829" seo="true" mt="1529049577177" redirect="true"/>
+  <file name="index.html" crc="492037954" seo="true" mt="1529049577177" redirect="true"/>
   <file name="geerten-ten-bosch.html" crc="3901051700" seo="true" mt="1529161624835" redirect="true"/>
   <file name="harriët-van-reek.html" crc="490006966" seo="true" mt="1529049589851" redirect="true"/>
   <file name="jesse-strikwerda.html" crc="4053635179" seo="true" mt="1529049589856" redirect="true"/>
