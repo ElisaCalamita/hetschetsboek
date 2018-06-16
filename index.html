@@ -7,42 +7,124 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   
   <script type="text/javascript">
-   // Update the 'nojs'/'js' class on the html node
+   // Redirect to phone/tablet as necessary
+(function(a,b,c){var d=function(){if(navigator.maxTouchPoints>1)return!0;if(window.matchMedia&&window.matchMedia("(-moz-touch-enabled)").matches)return!0;for(var a=["Webkit","Moz","O","ms","Khtml"],b=0,c=a.length;b<c;b++){var f=a[b]+"MaxTouchPoints";if(f in navigator&&navigator[f])return!0}try{return document.createEvent("TouchEvent"),!0}catch(d){}return!1}(),g=function(a){a+="=";for(var b=document.cookie.split(";"),c=0;c<b.length;c++){for(var f=b[c];f.charAt(0)==" ";)f=f.substring(1,f.length);if(f.indexOf(a)==
+0)return f.substring(a.length,f.length)}return null};if(g("inbrowserediting")!="true"){var f,g=g("devicelock");g=="phone"&&c?f=c:g=="tablet"&&b&&(f=b);if(g!=a&&!f)if(window.matchMedia)window.matchMedia("(max-device-width: 415px)").matches&&c?f=c:window.matchMedia("(max-device-width: 960px)").matches&&b&&d&&(f=b);else{var a=Math.min(screen.width,screen.height)/(window.devicePixelRatio||1),g=window.screen.systemXDPI||0,i=window.screen.systemYDPI||0,g=g>0&&i>0?Math.min(screen.width/g,screen.height/i):
+0;(a<=370||g!=0&&g<=3)&&c?f=c:a<=960&&b&&d&&(f=b)}if(f)document.location=f+(document.location.search||"")+(document.location.hash||""),document.write('<style type="text/css">body {visibility:hidden}</style>')}})("desktop","","phone/index.html");
+
+// Update the 'nojs'/'js' class on the html node
 document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
 
 // Check that all required assets are uploaded and up-to-date
-if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.watch.js", "require.js", "index.css"], "outOfDate":[]};
+if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "require.js", "jquery.watch.js", "jquery.museresponsive.js", "index.css"], "outOfDate":[]};
 </script>
   
-  <title>Het Schetsboek</title>
+  <link media="only screen and (max-width: 370px)" rel="alternate" href="http://www.hetschetboek.nl/phone/index.html"/>
+  <title>Het schetsboek</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=443350757"/>
-  <link rel="stylesheet" type="text/css" href="css/index.css?crc=194850984" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/index.css?crc=450326829" id="pagesheet"/>
+  <!-- IE-only CSS -->
+  <!--[if lt IE 9]>
+  <link rel="stylesheet" type="text/css" href="css/nomq_index.css?crc=68777930" id="nomq_pagesheet"/>
+  <![endif]-->
    </head>
  <body>
 
-  <div class="clearfix borderbox" id="page"><!-- column -->
-   <div class="position_content" id="page_position_content">
-    <div class="clearfix colelem" id="pu1857"><!-- group -->
-     <div class="clip_frame grpelem" id="u1857"><!-- image -->
-      <img class="block" id="u1857_img" src="images/schetsboek%20website.png?crc=4179552384" alt="" data-image-width="897" data-image-height="489"/>
+  <div class="breakpoint active" id="bp_infinity" data-min-width="991"><!-- responsive breakpoint node -->
+   <div class="clearfix" id="page"><!-- column -->
+    <div class="position_content" id="page_position_content">
+     <div class="clearfix colelem" id="pu1857"><!-- group -->
+      <div class="clip_frame grpelem" id="u1857"><!-- image -->
+       <img class="block temp_no_img_src" id="u1857_img" data-orig-src="images/schetsboek%20website898x489.png?crc=4179552384" alt="" width="897" height="489" src="images/blank.gif?crc=4208392903"/>
+      </div>
+      <img class="grpelem temp_no_img_src" id="u1870-4" alt="We duiken in het schetsboek van de kunstenaar die ons meeneemt in zijn ideeen achter het beeld. Ontstaan uit krabbels maakt hij zijn meesterwerken. In zijn atelier zien we in een oogopslag wie de kunstenaar is en vangen we een blik op van zijn werkproces. Eindwerken zitten opgeslagen in grote lades of in lijsten opgeborgen in kasten. In het atelier zien we zijn schetsboek." width="940" height="97" data-orig-src="images/u1870-4.png?crc=97079262" src="images/blank.gif?crc=4208392903"/><!-- rasterized frame -->
      </div>
-     <img class="grpelem" id="u1870-4" alt="We duiken in het schetsboek van de kunstenaar die ons meeneemt in zijn ideeen achter het beeld. Ontstaan uit krabbels maakt hij zijn meesterwerken. In zijn atelier zien we in een oogopslag wie de kunstenaar is en vangen we een blik op van zijn werkproces. Eindwerken zitten opgeslagen in grote lades of in lijsten opgeborgen in kasten. In het atelier zien we zijn schetsboek." src="images/u1870-4.png?crc=3960042460" data-image-width="984"/><!-- rasterized frame -->
-    </div>
-    <div class="clearfix colelem" id="ppu3186"><!-- group -->
-     <div class="clearfix grpelem" id="pu3186"><!-- column -->
-      <a class="nonblock nontext clip_frame colelem" id="u3186" href="geerten-ten-bosch.html"><!-- image --><img class="block" id="u3186_img" src="images/portret-crop-u3186.jpg?crc=390787100" alt="" data-image-width="374" data-image-height="381"/></a>
-      <div class="colelem" id="u825"><!-- simple frame --></div>
+     <div class="clearfix colelem" id="ppu3186"><!-- group -->
+      <div class="clearfix grpelem" id="pu3186"><!-- column -->
+       <a class="nonblock nontext clip_frame colelem" id="u3186" href="geerten-ten-bosch.html"><!-- image --><img class="block temp_no_img_src" id="u3186_img" data-orig-src="images/portret-crop-u3186.jpg?crc=390787100" alt="" width="374" height="381" src="images/blank.gif?crc=4208392903"/></a>
+       <a class="nonblock nontext clearfix colelem shared_content" id="u840-4" href="geerten-ten-bosch.html" data-content-guid="u840-4_content"><!-- content --><p>Geerten Ten Bosch</p></a>
+       <div class="colelem shared_content" id="u825" data-content-guid="u825_content"><!-- simple frame --></div>
+      </div>
+      <div class="clearfix grpelem shared_content" id="pu822" data-content-guid="pu822_content"><!-- column -->
+       <div class="colelem shared_content" id="u822" data-content-guid="u822_content"><!-- simple frame --></div>
+       <div class="clearfix colelem shared_content" id="u846-4" data-content-guid="u846-4_content"><!-- content -->
+        <p>Jesse Strikwerda</p>
+       </div>
+      </div>
      </div>
-     <div class="grpelem" id="u822"><!-- simple frame --></div>
+     <div class="clearfix colelem shared_content" id="u843-4" data-content-guid="u843-4_content"><!-- content -->
+      <p>Harriët van Reek</p>
+     </div>
+     <div class="verticalspacer" data-offset-top="1191" data-content-above-spacer="1190" data-content-below-spacer="562"></div>
     </div>
-    <div class="verticalspacer" data-offset-top="1152" data-content-above-spacer="1151" data-content-below-spacer="601"></div>
-    <a class="nonblock nontext clearfix colelem" id="u840-4" href="geerten-ten-bosch.html"><!-- content --><p>Geerten Ten Bosch</p></a>
-    <div class="clearfix colelem" id="u846-4"><!-- content -->
-     <p>Jesse Strikwerda</p>
+   </div>
+  </div>
+  <div class="breakpoint" id="bp_990" data-min-width="633" data-max-width="990"><!-- responsive breakpoint node -->
+   <div class="clearfix temp_no_id" data-orig-id="page"><!-- column -->
+    <div class="position_content temp_no_id" data-orig-id="page_position_content">
+     <div class="clearfix colelem temp_no_id" data-orig-id="pu1857"><!-- group -->
+      <div class="clip_frame grpelem temp_no_id" data-orig-id="u1857"><!-- image -->
+       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/schetsboek%20website.png?crc=4179552384" alt="" width="939" height="512" data-orig-id="u1857_img" src="images/blank.gif?crc=4208392903"/>
+      </div>
+      <img class="grpelem temp_no_id temp_no_img_src" alt="We duiken in het schetsboek van de kunstenaar die ons meeneemt in zijn ideeen achter het beeld. Ontstaan uit krabbels maakt hij zijn meesterwerken. In zijn atelier zien we in een oogopslag wie de kunstenaar is en vangen we een blik op van zijn werkproces. Eindwerken zitten opgeslagen in grote lades of in lijsten opgeborgen in kasten. In het atelier zien we zijn schetsboek." width="907" height="97" data-orig-src="images/u1870-42.png?crc=134262702" data-orig-id="u1870-4" src="images/blank.gif?crc=4208392903"/><!-- rasterized frame -->
+     </div>
+     <div class="clearfix colelem temp_no_id" data-orig-id="ppu3186"><!-- group -->
+      <div class="clearfix grpelem temp_no_id" data-orig-id="pu3186"><!-- column -->
+       <a class="nonblock nontext clip_frame colelem temp_no_id" href="geerten-ten-bosch.html" data-orig-id="u3186"><!-- image --><img class="block temp_no_id temp_no_img_src" data-orig-src="images/portret-crop-u31862.jpg?crc=4033079007" alt="" width="231" height="235" data-orig-id="u3186_img" src="images/blank.gif?crc=4208392903"/></a>
+       <span class="nonblock nontext clearfix colelem placeholder" data-placeholder-for="u840-4_content"><!-- placeholder node --></span>
+       <span class="colelem placeholder" data-placeholder-for="u825_content"><!-- placeholder node --></span>
+      </div>
+      <span class="clearfix grpelem placeholder" data-placeholder-for="pu822_content"><!-- placeholder node --></span>
+     </div>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u843-4_content"><!-- placeholder node --></span>
+     <div class="verticalspacer" data-offset-top="1127" data-content-above-spacer="1127" data-content-below-spacer="625"></div>
     </div>
-    <div class="clearfix colelem" id="u843-4"><!-- content -->
-     <p>Harriët van Reek</p>
+   </div>
+  </div>
+  <div class="breakpoint" id="bp_632" data-min-width="328" data-max-width="632"><!-- responsive breakpoint node -->
+   <div class="clearfix temp_no_id" data-orig-id="page"><!-- column -->
+    <div class="position_content temp_no_id" data-orig-id="page_position_content">
+     <div class="clip_frame colelem temp_no_id" data-orig-id="u1857"><!-- image -->
+      <img class="block temp_no_id temp_no_img_src" data-orig-src="images/schetsboek%20website448x244.png?crc=3931937533" alt="" width="448" height="244" data-orig-id="u1857_img" src="images/blank.gif?crc=4208392903"/>
+     </div>
+     <img class="colelem temp_no_id temp_no_img_src" alt="We duiken in het schetsboek van de kunstenaar die ons meeneemt in zijn ideeen achter het beeld. Ontstaan uit krabbels maakt hij zijn meesterwerken. In zijn atelier zien we in een oogopslag wie de kunstenaar is en vangen we een blik op van zijn werkproces. Eindwerken zitten opgeslagen in grote lades of in lijsten opgeborgen in kasten. In het atelier zien we zijn schetsboek." width="490" height="102" data-orig-src="images/u1870-43.png?crc=3930134623" data-orig-id="u1870-4" src="images/blank.gif?crc=4208392903"/><!-- rasterized frame -->
+     <div class="clearfix colelem temp_no_id" data-orig-id="ppu3186"><!-- group -->
+      <div class="clearfix grpelem temp_no_id" data-orig-id="pu3186"><!-- column -->
+       <a class="nonblock nontext clip_frame colelem temp_no_id" href="geerten-ten-bosch.html" data-orig-id="u3186"><!-- image --><img class="block temp_no_id temp_no_img_src" data-orig-src="images/portret-crop-u31863.jpg?crc=205138380" alt="" width="187" height="190" data-orig-id="u3186_img" src="images/blank.gif?crc=4208392903"/></a>
+       <span class="nonblock nontext clearfix colelem placeholder" data-placeholder-for="u840-4_content"><!-- placeholder node --></span>
+       <span class="colelem placeholder" data-placeholder-for="u825_content"><!-- placeholder node --></span>
+      </div>
+      <span class="grpelem placeholder" data-placeholder-for="u822_content"><!-- placeholder node --></span>
+     </div>
+     <div class="clearfix colelem" id="pu843-4"><!-- group -->
+      <span class="clearfix grpelem placeholder" data-placeholder-for="u843-4_content"><!-- placeholder node --></span>
+      <span class="clearfix grpelem placeholder" data-placeholder-for="u846-4_content"><!-- placeholder node --></span>
+     </div>
+     <div class="verticalspacer" data-offset-top="911" data-content-above-spacer="913" data-content-below-spacer="839"></div>
+    </div>
+   </div>
+  </div>
+  <div class="breakpoint" id="bp_327" data-max-width="327"><!-- responsive breakpoint node -->
+   <div class="clearfix temp_no_id" data-orig-id="page"><!-- column -->
+    <div class="position_content temp_no_id" data-orig-id="page_position_content">
+     <div class="clip_frame colelem temp_no_id" data-orig-id="u1857"><!-- image -->
+      <img class="block temp_no_id temp_no_img_src" data-orig-src="images/schetsboek%20website334x182.png?crc=16056865" alt="" width="334" height="182" data-orig-id="u1857_img" src="images/blank.gif?crc=4208392903"/>
+     </div>
+     <img class="colelem temp_no_id temp_no_img_src" alt="We duiken in het schetsboek van de kunstenaar die ons meeneemt in zijn ideeen achter het beeld. Ontstaan uit krabbels maakt hij zijn meesterwerken. In zijn atelier zien we in een oogopslag wie de kunstenaar is en vangen we een blik op van zijn werkproces. Eindwerken zitten opgeslagen in grote lades of in lijsten opgeborgen in kasten. In het atelier zien we zijn schetsboek." width="280" height="170" data-orig-src="images/u1870-44.png?crc=4105206577" data-orig-id="u1870-4" src="images/blank.gif?crc=4208392903"/><!-- rasterized frame -->
+     <div class="clearfix colelem temp_no_id" data-orig-id="ppu3186"><!-- group -->
+      <div class="clearfix grpelem temp_no_id" data-orig-id="pu3186"><!-- column -->
+       <a class="nonblock nontext clip_frame colelem temp_no_id" href="geerten-ten-bosch.html" data-orig-id="u3186"><!-- image --><img class="block temp_no_id temp_no_img_src" data-orig-src="images/portret-crop-u31864.jpg?crc=458467959" alt="" width="134" height="137" data-orig-id="u3186_img" src="images/blank.gif?crc=4208392903"/></a>
+       <span class="nonblock nontext clearfix colelem placeholder" data-placeholder-for="u840-4_content"><!-- placeholder node --></span>
+      </div>
+      <span class="grpelem placeholder" data-placeholder-for="u822_content"><!-- placeholder node --></span>
+     </div>
+     <div class="clearfix colelem" id="pu825"><!-- group -->
+      <span class="grpelem placeholder" data-placeholder-for="u825_content"><!-- placeholder node --></span>
+      <span class="clearfix grpelem placeholder" data-placeholder-for="u846-4_content"><!-- placeholder node --></span>
+     </div>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u843-4_content"><!-- placeholder node --></span>
+     <div class="verticalspacer" data-offset-top="909" data-content-above-spacer="734" data-content-below-spacer="1018"></div>
     </div>
    </div>
   </div>
@@ -52,12 +134,12 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
 16);return 0},g=function(g){for(var f=document.getElementsByTagName("link"),h=0;h<f.length;h++)if("text/css"==f[h].type){var i=(f[h].href||"").match(/\/?css\/([\w\-]+\.css)\?crc=(\d+)/);if(!i||!i[1]||!i[2])break;b[i[1]]=i[2]}f=document.createElement("div");f.className="version";f.style.cssText="display:none; width:1px; height:1px;";document.getElementsByTagName("body")[0].appendChild(f);for(h=0;h<Muse.assets.required.length;){var i=Muse.assets.required[h],l=i.match(/([\w\-\.]+)\.(\w+)$/),k=l&&l[1]?
 l[1]:null,l=l&&l[2]?l[2]:null;switch(l.toLowerCase()){case "css":k=k.replace(/\W/gi,"_").replace(/^([^a-z])/gi,"_$1");f.className+=" "+k;k=a(c(f,"color"));l=a(c(f,"backgroundColor"));k!=0||l!=0?(Muse.assets.required.splice(h,1),"undefined"!=typeof b[i]&&(k!=b[i]>>>24||l!=(b[i]&16777215))&&Muse.assets.outOfDate.push(i)):h++;f.className="version";break;case "js":h++;break;default:throw Error("Unsupported file type: "+l);}}d?d().jquery!="1.8.3"&&Muse.assets.outOfDate.push("jquery-1.8.3.min.js"):Muse.assets.required.push("jquery-1.8.3.min.js");
 f.parentNode.removeChild(f);if(Muse.assets.outOfDate.length||Muse.assets.required.length)f="Sommige bestanden op de server ontbreken of zijn beschadigd. Wis de cache van de browser en probeer het opnieuw. Als het probleem zich blijft voordoen, kunt u het beste contact opnemen met de auteur van de website.",g&&Muse.assets.outOfDate.length&&(f+="\nOut of date: "+Muse.assets.outOfDate.join(",")),g&&Muse.assets.required.length&&(f+="\nMissing: "+Muse.assets.required.join(",")),alert(f)};location&&location.search&&location.search.match&&location.search.match(/muse_debug/gi)?setTimeout(function(){g(!0)},5E3):g()}};
-var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","jquery.watch"],function(d){var $ = d;$(document).ready(function(){try{
+var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","jquery.watch","jquery.museresponsive"],function(d){var $ = d;$(document).ready(function(){try{
 window.Muse.assets.check($);/* body */
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.prepHyperlinks(true);/* body */
 Muse.Utils.fullPage('#page');/* 100% height page */
-Muse.Utils.showWidgetsWhenReady();/* body */
+$( '.breakpoint' ).registerBreakpoint();/* Register breakpoints */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
 }catch(b){if(b&&"function"==typeof b.notify?b.notify():Muse.Assert.fail("Error calling selector function: "+b),false)throw b;}})})};
 
