@@ -1,11 +1,11 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.hetschetboek.nl" resolutions="1x" timestamp="1529184127701">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.hetschetboek.nl" resolutions="1x" timestamp="1529186181686">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="geerten-ten-bosch.css" crc="4250330657" ref="geerten-ten-bosch"/>
     <file name="harri_t-van-reek.css" crc="429001514" ref="harriët-van-reek"/>
     <file name="jesse-strikwerda.css" crc="188786323" ref="jesse-strikwerda"/>
-    <file name="index.css" crc="4168506087" ref="index"/>
-    <file name="nomq_index.css" crc="30370666" ref="index"/>
+    <file name="index.css" crc="4235631615" ref="index"/>
+    <file name="nomq_index.css" crc="68777930" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="car-driving-interior-ambience.mp3" crc="373872107" seo="true" mt="1508788337000"/>
@@ -370,11 +370,8 @@
     <file name="u4681-42.png" crc="3923628134" ref="phone>geerten-ten-bosch"/>
     <file name="u4687-42.png" crc="4156195121" ref="phone>geerten-ten-bosch"/>
     <file name="u4693-42.png" crc="3974312769" ref="phone>geerten-ten-bosch"/>
-    <file name="u1870-42.png" crc="462027532" ref="index"/>
-    <file name="portret-crop-u31862.jpg" crc="293964018" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="schetsboek website743x406.png" crc="354539089" seo="true" ref="index">
+    <file name="u1870-42.png" crc="134262702" ref="index"/>
+    <file name="portret-crop-u31862.jpg" crc="4033079007" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u1870-43.png" crc="3930134623" ref="index"/>
@@ -389,6 +386,9 @@
     </file>
     <file name="u1870-44.png" crc="4105206577" ref="index"/>
     <file name="portret-crop-u31864.jpg" crc="458467959" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="schetsboek website898x489.png" crc="4179552384" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
@@ -407,18 +407,18 @@
   <folder name="phone">
     <folder name="css">
       <file name="jesse-strikwerda.css" crc="62426684" ref="phone>jesse-strikwerda"/>
-      <file name="index.css" crc="31736561" ref="phone>index"/>
+      <file name="index.css" crc="176705241" ref="phone>index"/>
       <file name="harri_t-van-reek.css" crc="62426684" ref="phone>harriët-van-reek"/>
       <file name="geerten-ten-bosch.css" crc="409596650" ref="phone>geerten-ten-bosch"/>
       <file name="nomq_geerten-ten-bosch.css" crc="4123255117" ref="phone>geerten-ten-bosch"/>
     </folder>
-    <file name="index.html" crc="3890375670" seo="true" mt="1529184115418" redirect="true"/>
+    <file name="index.html" crc="17841025" seo="true" mt="1529186148428" redirect="true"/>
     <file name="geerten-ten-bosch.html" crc="4271961127" seo="true" mt="1529184115418" redirect="true"/>
     <file name="harriët-van-reek.html" crc="350840346" seo="true" mt="1529184115418" redirect="false"/>
     <file name="jesse-strikwerda.html" crc="179445750" seo="true" mt="1529184115418" redirect="false"/>
   </folder>
   <file name="geerten-ten-bosch.html" crc="433868466" seo="true" mt="1529183908482" redirect="true"/>
-  <file name="index.html" crc="105130557" seo="true" mt="1529183992005" redirect="true"/>
+  <file name="index.html" crc="4131497045" seo="true" mt="1529185009221" redirect="true"/>
   <file name="harriët-van-reek.html" crc="490006966" seo="true" mt="1529183908482" redirect="true"/>
   <file name="jesse-strikwerda.html" crc="4053635179" seo="true" mt="1529183908482" redirect="true"/>
 </manifest>
