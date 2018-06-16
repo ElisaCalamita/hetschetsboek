@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.hetschetboek.nl" resolutions="1x,2x" timestamp="1529189894891">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.hetschetboek.nl" resolutions="1x,2x" timestamp="1529191147429">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="geerten-ten-bosch.css" crc="3772443695" ref="geerten-ten-bosch"/>
@@ -359,24 +359,36 @@
     <file name="u1870-4_2x2.png" crc="4067861369" ref="index"/>
     <file name="u1870-4_2x3.png" crc="475748134" ref="index"/>
     <file name="u1870-4_2x4.png" crc="3988623822" ref="index"/>
-    <file name="hetschetsboek definitief453x247.png" crc="458343819" seo="true" ref="phone>index">
+    <file name="hetschetsboek definitief453x247.png" crc="73894657" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="hetschetsboek definitief428x234.png" crc="458343819" seo="true" ref="phone>index">
+    <file name="hetschetsboek definitief428x234.png" crc="3761782699" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="hetschetsboek definitief378x207.png" crc="458343819" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="hetschetsboek definitief.png" crc="458343819" seo="true" ref="index">
+    <file name="hetschetsboek definitief378x207.png" crc="523297103" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="hetschetsboek definitief448x245.png" crc="458343819" seo="true" ref="index">
+    <file name="hetschetsboek definitief.png" crc="207853274" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="hetschetsboek definitief334x183.png" crc="458343819" seo="true" ref="index">
+    <file name="hetschetsboek definitief453x247_2x.png" crc="207853274" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hetschetsboek definitief428x234_2x.png" crc="207853274" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hetschetsboek definitief378x207_2x.png" crc="207853274" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hetschetsboek definitief898x490.png" crc="207853274" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hetschetsboek definitief448x244.png" crc="102836244" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hetschetsboek definitief334x182.png" crc="241966833" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
@@ -388,13 +400,13 @@
       <file name="geerten-ten-bosch.css" crc="4273978302" ref="phone>geerten-ten-bosch"/>
       <file name="nomq_index.css" crc="3998218896" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="484730172" seo="true" mt="1529189848075" redirect="true"/>
+    <file name="index.html" crc="4193752428" seo="true" mt="1529191113289" redirect="true"/>
     <file name="geerten-ten-bosch.html" crc="4049716142" seo="true" mt="1529187002896" redirect="true"/>
     <file name="harriët-van-reek.html" crc="98565020" seo="true" mt="1529187002896" redirect="false"/>
     <file name="jesse-strikwerda.html" crc="474829472" seo="true" mt="1529187002896" redirect="false"/>
   </folder>
   <file name="geerten-ten-bosch.html" crc="358515780" seo="true" mt="1529187767771" redirect="true"/>
-  <file name="index.html" crc="118127623" seo="true" mt="1529189863431" redirect="true"/>
+  <file name="index.html" crc="109252354" seo="true" mt="1529191094983" redirect="true"/>
   <file name="harriët-van-reek.html" crc="122890856" seo="true" mt="1529187767771" redirect="true"/>
   <file name="jesse-strikwerda.html" crc="120485459" seo="true" mt="1529187767771" redirect="true"/>
 </manifest>
