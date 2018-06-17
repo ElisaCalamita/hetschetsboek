@@ -90,6 +90,7 @@
     <lastmod>2018-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://www.hetschetboek.nl/phone/harriët-van-reek.html"/>
     <image:image>
       <image:loc>http://www.hetschetboek.nl/images/harriet20.jpg</image:loc>
     </image:image>
@@ -149,6 +150,9 @@
     </image:image>
     <image:image>
       <image:loc>http://www.hetschetboek.nl/images/harriet15.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.hetschetboek.nl/images/harriet%20van%20reek%20tekst.png</image:loc>
     </image:image>
   </url>
   <url>

@@ -7,68 +7,76 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   
   <script type="text/javascript">
-   // Update the 'nojs'/'js' class on the html node
+   // Redirect to phone/tablet as necessary
+(function(a,b,c){var d=function(){if(navigator.maxTouchPoints>1)return!0;if(window.matchMedia&&window.matchMedia("(-moz-touch-enabled)").matches)return!0;for(var a=["Webkit","Moz","O","ms","Khtml"],b=0,c=a.length;b<c;b++){var f=a[b]+"MaxTouchPoints";if(f in navigator&&navigator[f])return!0}try{return document.createEvent("TouchEvent"),!0}catch(d){}return!1}(),g=function(a){a+="=";for(var b=document.cookie.split(";"),c=0;c<b.length;c++){for(var f=b[c];f.charAt(0)==" ";)f=f.substring(1,f.length);if(f.indexOf(a)==
+0)return f.substring(a.length,f.length)}return null};if(g("inbrowserediting")!="true"){var f,g=g("devicelock");g=="phone"&&c?f=c:g=="tablet"&&b&&(f=b);if(g!=a&&!f)if(window.matchMedia)window.matchMedia("(max-device-width: 415px)").matches&&c?f=c:window.matchMedia("(max-device-width: 960px)").matches&&b&&d&&(f=b);else{var a=Math.min(screen.width,screen.height)/(window.devicePixelRatio||1),g=window.screen.systemXDPI||0,i=window.screen.systemYDPI||0,g=g>0&&i>0?Math.min(screen.width/g,screen.height/i):
+0;(a<=370||g!=0&&g<=3)&&c?f=c:a<=960&&b&&d&&(f=b)}if(f)document.location=f+(document.location.search||"")+(document.location.hash||""),document.write('<style type="text/css">body {visibility:hidden}</style>')}})("desktop","","phone/harri%c3%abt-van-reek.html");
+
+// Update the 'nojs'/'js' class on the html node
 document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
 
 // Check that all required assets are uploaded and up-to-date
 if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "require.js", "jquery.watch.js", "harri_t-van-reek.css"], "outOfDate":[]};
 </script>
   
+  <link media="only screen and (max-width: 370px)" rel="alternate" href="http://www.hetschetboek.nl/phone/harri%c3%abt-van-reek.html"/>
   <title>Harriët van Reek</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=443350757"/>
-  <link rel="stylesheet" type="text/css" href="css/harri_t-van-reek.css?crc=69075236" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/harri_t-van-reek.css?crc=4204403913" id="pagesheet"/>
    </head>
  <body>
 
   <div class="clearfix borderbox" id="page"><!-- column -->
    <div class="position_content" id="page_position_content">
-    <img class="colelem" id="u1171-7" alt="HARRIËT VAN REEK" src="images/u1171-7.png?crc=4041403214" data-image-width="547"/><!-- rasterized frame -->
-    <img class="colelem" id="u3150-4" alt="In het atelier van Harriët van Reek " src="images/u3150-4.png?crc=4013384004" data-image-width="556"/><!-- rasterized frame -->
+    <div class="clip_frame colelem" id="u11378"><!-- image -->
+     <img class="block" id="u11378_img" src="images/harriet%20van%20reek%20tekst.png?crc=70874243" alt="" data-image-width="579" data-image-height="191"/>
+    </div>
+    <img class="colelem" id="u3150-6" alt="In het atelier van Harriët van Reek, waar de letters voor het raam dansen. " src="images/u3150-6.png?crc=268505257" data-image-width="556"/><!-- rasterized frame -->
     <div class="clearfix colelem" id="ppu3180-4"><!-- group -->
      <div class="clearfix grpelem" id="pu3180-4"><!-- column -->
-      <a class="nonblock nontext colelem" id="u3180-4" href="index.html"><!-- rasterized frame --><img id="u3180-4_img" alt="• Home" src="images/u3180-4.png?crc=130369094" data-image-width="155"/></a>
-      <a class="nonblock nontext colelem" id="u1212-4" href="jesse-strikwerda.html"><!-- rasterized frame --><img id="u1212-4_img" alt="• Jesse Strikwerda" src="images/u1212-4.png?crc=505497652" data-image-width="155"/></a>
-      <a class="nonblock nontext colelem" id="u1211-4" href="geerten-ten-bosch.html"><!-- rasterized frame --><img id="u1211-4_img" alt="• Geerten Ten Bosch" src="images/u1211-4.png?crc=3980176698" data-image-width="176"/></a>
-      <a class="nonblock nontext MuseLinkActive colelem" id="u1172-4" href="harri%c3%abt-van-reek.html"><!-- rasterized frame --><img id="u1172-4_img" alt="• Harriët van Reek" src="images/u1172-4-a.png?crc=193499490" data-image-width="148"/></a>
+      <a class="nonblock nontext colelem" id="u3180-4" href="index.html"><!-- rasterized frame --><img id="u3180-4_img" alt="• Home" src="images/u3180-4.png?crc=333908260" data-image-width="155"/></a>
+      <a class="nonblock nontext colelem" id="u1212-4" href="jesse-strikwerda.html"><!-- rasterized frame --><img id="u1212-4_img" alt="• Jesse Strikwerda" src="images/u1212-4.png?crc=3864150772" data-image-width="155"/></a>
+      <a class="nonblock nontext colelem" id="u1211-4" href="geerten-ten-bosch.html"><!-- rasterized frame --><img id="u1211-4_img" alt="• Geerten Ten Bosch" src="images/u1211-4.png?crc=4288882591" data-image-width="176"/></a>
+      <a class="nonblock nontext MuseLinkActive colelem" id="u1172-4" href="harri%c3%abt-van-reek.html"><!-- rasterized frame --><img id="u1172-4_img" alt="• Harriët van Reek" src="images/u1172-4-a.png?crc=3858180122" data-image-width="148"/></a>
      </div>
-     <img class="grpelem" id="u1194-4" alt="In Rotterdam Zuid bel ik aan bij een huis waar de letters voor het raam dansen. Mijn docent Illustratie Verhaal doet open. Ik betreed een huis waar genoeg ruimte is om beeld te maken in maar liefst drie ateliers. Harriët van Reek staat bekend als illustrator van kinderboeken. In 1986 won zij met haar debuut &quot;De avonturen van Lena lena&quot; de Gouden Griffel en een Vlag en Wimpel. Daar kwam in 2016 de Gouden Penseel bij voor het boek &quot;Lettersoep&quot;: een prijs waar menig illustrator van droomt. Naast kinderboeken heeft zij zich in haar jongere jaren bezig gehouden met het opvoeren en bedenken van theaterperformances met Geerten Ten Bosch onder de naam Banketje van Reek Ten Bosch. In dit beeldtheater werden performances gecreëerd met geluid, stoffen en gebeamde voorstellingen. Ik ben benieuwd hoe zij zich heeft genesteld in de wereld van de uitgevers met haar eigen categorie van eigenzinnige, ietswat &quot;rare&quot; verhalen vol letters. Daarnaast wil ik weten hoe Harriët een verhaal vertelt met haar woorden en beelden. En gaan we dieper in op het poëtische." src="images/u1194-4.png?crc=42937404" data-image-width="546"/><!-- rasterized frame -->
+     <img class="grpelem" id="u1194-4" alt="In Rotterdam Zuid bel ik aan bij een huis waar de letters voor het raam dansen. Mijn docent Illustratie Verhaal doet open. Ik betreed een huis waar genoeg ruimte is om beeld te maken in maar liefst drie ateliers. Harriët van Reek staat bekend als illustrator van kinderboeken. In 1986 won zij met haar debuut &quot;De avonturen van Lena lena&quot; de Gouden Griffel en een Vlag en Wimpel. Daar kwam in 2016 de Gouden Penseel bij voor het boek &quot;Lettersoep&quot;: een prijs waar menig illustrator van droomt. Naast kinderboeken heeft zij zich in haar jongere jaren bezig gehouden met het opvoeren en bedenken van theaterperformances met Geerten Ten Bosch onder de naam Banketje van Reek Ten Bosch. In dit beeldtheater werden performances gecreëerd met geluid, stoffen en gebeamde voorstellingen. Ik ben benieuwd hoe zij zich heeft genesteld in de wereld van de uitgevers met haar eigen categorie van eigenzinnige, ietswat &quot;rare&quot; verhalen vol letters. Daarnaast wil ik weten hoe Harriët een verhaal vertelt met haar woorden en beelden. En gaan we dieper in op het poëtische." src="images/u1194-4.png?crc=3767148113" data-image-width="546"/><!-- rasterized frame -->
     </div>
     <div class="clearfix colelem" id="pppu1339"><!-- group -->
      <div class="clearfix grpelem" id="ppu1339"><!-- column -->
       <div class="clearfix colelem" id="pu1339"><!-- group -->
        <div class="clip_frame grpelem" id="u1339"><!-- image -->
-        <img class="block" id="u1339_img" src="images/harriet20.jpg?crc=143368394" alt="" data-image-width="188" data-image-height="468"/>
+        <img class="block" id="u1339_img" src="images/harriet20.jpg?crc=515021017" alt="" data-image-width="188" data-image-height="468"/>
        </div>
        <div class="clip_frame grpelem" id="u1349"><!-- image -->
-        <img class="block" id="u1349_img" src="images/harriet1.jpg?crc=438325725" alt="" data-image-width="420" data-image-height="292"/>
+        <img class="block" id="u1349_img" src="images/harriet1.jpg?crc=449650890" alt="" data-image-width="420" data-image-height="292"/>
        </div>
        <div class="clip_frame grpelem" id="u1359"><!-- image -->
-        <img class="block" id="u1359_img" src="images/harriet19.jpg?crc=150795826" alt="" data-image-width="208" data-image-height="290"/>
+        <img class="block" id="u1359_img" src="images/harriet19.jpg?crc=272123549" alt="" data-image-width="208" data-image-height="290"/>
        </div>
        <div class="clip_frame grpelem" id="u1389"><!-- image -->
-        <img class="block" id="u1389_img" src="images/harriet4-crop-u1389.jpg?crc=10344515" alt="" data-image-width="127" data-image-height="151"/>
+        <img class="block" id="u1389_img" src="images/harriet4-crop-u1389.jpg?crc=438402171" alt="" data-image-width="127" data-image-height="151"/>
        </div>
        <div class="clip_frame grpelem" id="u1399"><!-- image -->
-        <img class="block" id="u1399_img" src="images/harriet5.jpg?crc=20456222" alt="" data-image-width="335" data-image-height="472"/>
+        <img class="block" id="u1399_img" src="images/harriet5.jpg?crc=185131662" alt="" data-image-width="335" data-image-height="472"/>
        </div>
        <div class="clip_frame grpelem" id="u1409"><!-- image -->
-        <img class="block" id="u1409_img" src="images/harriet6.jpg?crc=4166207947" alt="" data-image-width="208" data-image-height="297"/>
+        <img class="block" id="u1409_img" src="images/harriet6.jpg?crc=462882790" alt="" data-image-width="208" data-image-height="297"/>
        </div>
        <div class="clip_frame grpelem" id="u1419"><!-- image -->
-        <img class="block" id="u1419_img" src="images/harriet7.jpg?crc=63897806" alt="" data-image-width="206" data-image-height="291"/>
+        <img class="block" id="u1419_img" src="images/harriet7.jpg?crc=410457875" alt="" data-image-width="206" data-image-height="291"/>
        </div>
        <div class="clip_frame grpelem" id="u1429"><!-- image -->
-        <img class="block" id="u1429_img" src="images/harriet8.jpg?crc=4283126759" alt="" data-image-width="208" data-image-height="293"/>
+        <img class="block" id="u1429_img" src="images/harriet8.jpg?crc=49914285" alt="" data-image-width="208" data-image-height="293"/>
        </div>
        <div class="clip_frame grpelem" id="u1439"><!-- image -->
-        <img class="block" id="u1439_img" src="images/harriet9.jpg?crc=439809867" alt="" data-image-width="291" data-image-height="205"/>
+        <img class="block" id="u1439_img" src="images/harriet9.jpg?crc=3828276440" alt="" data-image-width="291" data-image-height="205"/>
        </div>
        <div class="clip_frame grpelem" id="u1479"><!-- image -->
-        <img class="block" id="u1479_img" src="images/harriet14.jpg?crc=259296442" alt="" data-image-width="422" data-image-height="299"/>
+        <img class="block" id="u1479_img" src="images/harriet14.jpg?crc=4004831009" alt="" data-image-width="422" data-image-height="299"/>
        </div>
        <div class="clip_frame grpelem" id="u1499"><!-- image -->
-        <img class="block" id="u1499_img" src="images/harriet16.jpg?crc=3774079312" alt="" data-image-width="291" data-image-height="410"/>
+        <img class="block" id="u1499_img" src="images/harriet16.jpg?crc=107652965" alt="" data-image-width="291" data-image-height="410"/>
        </div>
        <div class="grpelem" id="u2009"><!-- custom html -->
         <!DOCTYPE html>
@@ -921,7 +929,7 @@ var togglePlay5 = function() {
       <div class="clearfix colelem" id="ppu1519"><!-- group -->
        <div class="clearfix grpelem" id="pu1519"><!-- group -->
         <div class="clip_frame grpelem" id="u1519"><!-- image -->
-         <img class="block" id="u1519_img" src="images/harriet18-crop-u1519.jpg?crc=21480866" alt="" data-image-width="188" data-image-height="322"/>
+         <img class="block" id="u1519_img" src="images/harriet18-crop-u1519.jpg?crc=201513033" alt="" data-image-width="188" data-image-height="322"/>
         </div>
         <div class="grpelem" id="u2045"><!-- custom html -->
          <!DOCTYPE html>
@@ -1002,7 +1010,7 @@ var togglePlay4 = function() {
         </div>
        </div>
        <div class="clip_frame grpelem" id="u1529"><!-- image -->
-        <img class="block" id="u1529_img" src="images/harriet11.jpg?crc=3919213986" alt="" data-image-width="448" data-image-height="322"/>
+        <img class="block" id="u1529_img" src="images/harriet11.jpg?crc=3947214244" alt="" data-image-width="448" data-image-height="321"/>
        </div>
        <div class="grpelem" id="u2030"><!-- custom html -->
         <!DOCTYPE html>
@@ -1087,7 +1095,7 @@ var togglePlay3 = function() {
       <div class="clearfix colelem" id="ppu1459"><!-- group -->
        <div class="clearfix grpelem" id="pu1459"><!-- group -->
         <div class="clip_frame grpelem" id="u1459"><!-- image -->
-         <img class="block" id="u1459_img" src="images/harriet12.jpg?crc=107909383" alt="" data-image-width="134" data-image-height="189"/>
+         <img class="block" id="u1459_img" src="images/harriet12.jpg?crc=40840431" alt="" data-image-width="134" data-image-height="189"/>
         </div>
         <div class="grpelem" id="u2127"><!-- custom html -->
          <!DOCTYPE html>
@@ -1168,7 +1176,7 @@ var togglePlay14 = function() {
         </div>
        </div>
        <div class="clip_frame grpelem" id="u1449"><!-- image -->
-        <img class="block" id="u1449_img" src="images/harriet10.jpg?crc=3788069650" alt="" data-image-width="136" data-image-height="189"/>
+        <img class="block" id="u1449_img" src="images/harriet10.jpg?crc=4017039212" alt="" data-image-width="136" data-image-height="189"/>
        </div>
        <div class="grpelem" id="u2090"><!-- custom html -->
         <!DOCTYPE html>
@@ -1250,10 +1258,10 @@ var togglePlay15 = function() {
       </div>
       <div class="clearfix colelem" id="pu1369"><!-- group -->
        <div class="clip_frame grpelem" id="u1369"><!-- image -->
-        <img class="block" id="u1369_img" src="images/harriet2.jpg?crc=98474507" alt="" data-image-width="296" data-image-height="425"/>
+        <img class="block" id="u1369_img" src="images/harriet2.jpg?crc=3943667896" alt="" data-image-width="296" data-image-height="425"/>
        </div>
        <div class="clip_frame grpelem" id="u1379"><!-- image -->
-        <img class="block" id="u1379_img" src="images/harriet3.jpg?crc=3832490323" alt="" data-image-width="296" data-image-height="209"/>
+        <img class="block" id="u1379_img" src="images/harriet3.jpg?crc=3966569517" alt="" data-image-width="296" data-image-height="209"/>
        </div>
        <div class="grpelem" id="u2117"><!-- custom html -->
         <!DOCTYPE html>
@@ -1412,10 +1420,10 @@ var togglePlay9 = function() {
       </div>
       <div class="clearfix colelem" id="pu1469"><!-- group -->
        <div class="clip_frame grpelem" id="u1469"><!-- image -->
-        <img class="block" id="u1469_img" src="images/harriet13.jpg?crc=61930941" alt="" data-image-width="295" data-image-height="207"/>
+        <img class="block" id="u1469_img" src="images/harriet13.jpg?crc=4282587123" alt="" data-image-width="295" data-image-height="207"/>
        </div>
        <div class="clip_frame grpelem" id="u1509"><!-- image -->
-        <img class="block" id="u1509_img" src="images/harriet17.jpg?crc=4271035793" alt="" data-image-width="295" data-image-height="417"/>
+        <img class="block" id="u1509_img" src="images/harriet17.jpg?crc=4195772337" alt="" data-image-width="295" data-image-height="417"/>
        </div>
        <div class="grpelem" id="u2112"><!-- custom html -->
         <!DOCTYPE html>
@@ -1574,7 +1582,7 @@ var togglePlay8 = function() {
       </div>
       <div class="clearfix colelem" id="pu1489"><!-- group -->
        <div class="clip_frame grpelem" id="u1489"><!-- image -->
-        <img class="block" id="u1489_img" src="images/harriet15.jpg?crc=3864419122" alt="" data-image-width="291" data-image-height="404"/>
+        <img class="block" id="u1489_img" src="images/harriet15.jpg?crc=81210656" alt="" data-image-width="291" data-image-height="404"/>
        </div>
        <div class="grpelem" id="u2107"><!-- custom html -->
         <!DOCTYPE html>
@@ -1656,7 +1664,7 @@ var togglePlay20 = function() {
       </div>
      </div>
     </div>
-    <div class="verticalspacer" data-offset-top="2751" data-content-above-spacer="2751" data-content-below-spacer="1867"></div>
+    <div class="verticalspacer" data-offset-top="2759" data-content-above-spacer="2759" data-content-below-spacer="1867"></div>
    </div>
   </div>
   <!-- Other scripts -->
