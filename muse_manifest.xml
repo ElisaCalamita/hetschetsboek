@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.hetschetboek.nl" resolutions="1x" timestamp="1529570693005">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.hetschetboek.nl" resolutions="1x" timestamp="1529571579025">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="geerten-ten-bosch.css" crc="139293869" ref="geerten-ten-bosch"/>
@@ -184,16 +184,14 @@
     <file name="u1194-4.png" crc="3767148113" ref="harriët-van-reek"/>
     <file name="harriet20.jpg" crc="515021017" seo="true" ref="harriët-van-reek:phone>harriët-van-reek">
       <caption webpage="harriët-van-reek" alt=""/>
-      <caption webpage="harriët-van-reek" alt=""/>
     </file>
     <file name="harriet1.jpg" crc="449650890" seo="true" ref="harriët-van-reek">
       <caption webpage="harriët-van-reek" alt=""/>
     </file>
     <file name="harriet19.jpg" crc="272123549" seo="true" ref="harriët-van-reek:phone>harriët-van-reek">
       <caption webpage="harriët-van-reek" alt=""/>
-      <caption webpage="harriët-van-reek" alt=""/>
     </file>
-    <file name="harriet4-crop-u1389.jpg" crc="438402171" seo="true" ref="harriët-van-reek">
+    <file name="harriet4-crop-u1389.jpg" crc="426627081" seo="true" ref="harriët-van-reek">
       <caption webpage="harriët-van-reek" alt=""/>
     </file>
     <file name="harriet5.jpg" crc="185131662" seo="true" ref="harriët-van-reek">
@@ -201,18 +199,14 @@
     </file>
     <file name="harriet6.jpg" crc="462882790" seo="true" ref="harriët-van-reek:phone>harriët-van-reek">
       <caption webpage="harriët-van-reek" alt=""/>
-      <caption webpage="harriët-van-reek" alt=""/>
     </file>
     <file name="harriet7.jpg" crc="410457875" seo="true" ref="harriët-van-reek:phone>harriët-van-reek">
-      <caption webpage="harriët-van-reek" alt=""/>
       <caption webpage="harriët-van-reek" alt=""/>
     </file>
     <file name="harriet8.jpg" crc="49914285" seo="true" ref="harriët-van-reek:phone>harriët-van-reek">
       <caption webpage="harriët-van-reek" alt=""/>
-      <caption webpage="harriët-van-reek" alt=""/>
     </file>
     <file name="harriet9.jpg" crc="3828276440" seo="true" ref="harriët-van-reek:phone>harriët-van-reek">
-      <caption webpage="harriët-van-reek" alt=""/>
       <caption webpage="harriët-van-reek" alt=""/>
     </file>
     <file name="harriet14.jpg" crc="4004831009" seo="true" ref="harriët-van-reek">
@@ -229,10 +223,8 @@
     </file>
     <file name="harriet12.jpg" crc="40840431" seo="true" ref="harriët-van-reek:phone>harriët-van-reek">
       <caption webpage="harriët-van-reek" alt=""/>
-      <caption webpage="harriët-van-reek" alt=""/>
     </file>
     <file name="harriet10.jpg" crc="4017039212" seo="true" ref="harriët-van-reek:phone>harriët-van-reek">
-      <caption webpage="harriët-van-reek" alt=""/>
       <caption webpage="harriët-van-reek" alt=""/>
     </file>
     <file name="harriet2.jpg" crc="3943667896" seo="true" ref="harriët-van-reek">
@@ -242,7 +234,6 @@
       <caption webpage="harriët-van-reek" alt=""/>
     </file>
     <file name="harriet13.jpg" crc="4282587123" seo="true" ref="harriët-van-reek:phone>harriët-van-reek">
-      <caption webpage="harriët-van-reek" alt=""/>
       <caption webpage="harriët-van-reek" alt=""/>
     </file>
     <file name="harriet17.jpg" crc="4195772337" seo="true" ref="harriët-van-reek">
@@ -326,7 +317,6 @@
     <file name="u11330-4-a.png" crc="3973308408" ref="phone>geerten-ten-bosch"/>
     <file name="u11331-4.png" crc="81422872" ref="phone>geerten-ten-bosch"/>
     <file name="harriet van reek tekst.png" crc="70874243" seo="true" ref="phone>harriët-van-reek:harriët-van-reek">
-      <caption webpage="harriët-van-reek" alt=""/>
       <caption webpage="harriët-van-reek" alt=""/>
     </file>
     <file name="u11398-6.png" crc="3769338821" ref="phone>harriët-van-reek"/>
@@ -431,6 +421,6 @@
   </folder>
   <file name="geerten-ten-bosch.html" crc="374237223" seo="true" mt="1529570686055" redirect="true"/>
   <file name="index.html" crc="333809164" seo="true" mt="1529278798838" redirect="true"/>
-  <file name="harriët-van-reek.html" crc="4024798608" seo="true" mt="1529274719590" redirect="true"/>
+  <file name="harriët-van-reek.html" crc="4284761539" seo="true" mt="1529571026182" redirect="true"/>
   <file name="jesse-strikwerda.html" crc="120485459" seo="true" mt="1529187767771" redirect="true"/>
 </manifest>
