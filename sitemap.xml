@@ -118,7 +118,7 @@
   </url>
   <url>
     <loc>http://www.hetschetboek.nl/jesse-strikwerda.html</loc>
-    <lastmod>2018-06-17</lastmod>
+    <lastmod>2018-06-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -168,6 +168,9 @@
     </image:image>
     <image:image>
       <image:loc>http://www.hetschetboek.nl/images/jesse8-crop-u3488.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.hetschetboek.nl/images/portret-jesse.jpg</image:loc>
     </image:image>
   </url>
   <url>
