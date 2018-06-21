@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://www.hetschetboek.nl/index.html</loc>
-    <lastmod>2018-06-18</lastmod>
+    <lastmod>2018-06-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://www.hetschetboek.nl/phone/index.html"/>
@@ -16,31 +16,16 @@
       <image:loc>http://www.hetschetboek.nl/images/hetschetsboek%20definitief334x182.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.hetschetboek.nl/images/hetschetsboek%20definitief806x440.png</image:loc>
+      <image:loc>http://www.hetschetboek.nl/images/portret-jesse.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.hetschetboek.nl/images/portret-2-geerten-crop-u11675.jpg</image:loc>
+      <image:loc>http://www.hetschetboek.nl/images/hetschetsboek%20definitief816x445.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.hetschetboek.nl/images/harriet-crop-u11784.jpg</image:loc>
+      <image:loc>http://www.hetschetboek.nl/images/harriet-2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.hetschetboek.nl/images/portret-2-geerten-crop-u116752.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.hetschetboek.nl/images/harriet-crop-u117842.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.hetschetboek.nl/images/harriet-crop-u117843.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.hetschetboek.nl/images/portret-2-geerten-crop-u116753.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.hetschetboek.nl/images/harriet-crop-u117844.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.hetschetboek.nl/images/portret-2-geerten-crop-u116754.jpg</image:loc>
+      <image:loc>http://www.hetschetboek.nl/images/portret-3-geerten.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -121,6 +106,7 @@
     <lastmod>2018-06-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://www.hetschetboek.nl/phone/jesse-strikwerda.html"/>
     <image:image>
       <image:loc>http://www.hetschetboek.nl/images/jesse1.jpg</image:loc>
     </image:image>
