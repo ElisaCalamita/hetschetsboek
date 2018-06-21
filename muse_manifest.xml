@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.hetschetboek.nl" resolutions="1x" timestamp="1529576746181">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.hetschetboek.nl" resolutions="1x" timestamp="1529577385666">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="geerten-ten-bosch.css" crc="139293869" ref="geerten-ten-bosch"/>
@@ -269,7 +269,6 @@
     </file>
     <file name="jesse6.jpg" crc="3903033413" seo="true" ref="jesse-strikwerda:phone>jesse-strikwerda">
       <caption webpage="jesse-strikwerda" alt=""/>
-      <caption webpage="jesse-strikwerda" alt=""/>
     </file>
     <file name="jesse8.jpg" crc="4141164068" seo="true" ref="jesse-strikwerda">
       <caption webpage="jesse-strikwerda" alt=""/>
@@ -336,7 +335,7 @@
     <file name="harriet16170x239.jpg" crc="411192206" seo="true" ref="phone>harriët-van-reek">
       <caption webpage="harriët-van-reek" alt=""/>
     </file>
-    <file name="harriet4-crop-u11490.jpg" crc="497420554" seo="true" ref="phone>harriët-van-reek">
+    <file name="harriet4-crop-u11490.jpg" crc="83102977" seo="true" ref="phone>harriët-van-reek">
       <caption webpage="harriët-van-reek" alt=""/>
     </file>
     <file name="harriet17208x293.jpg" crc="3922261850" seo="true" ref="phone>harriët-van-reek">
@@ -361,14 +360,14 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u11842-10.png" crc="3766837153" ref="phone>index"/>
-    <file name="portret-2-geerten.jpg" crc="2407511" seo="true" ref="geerten-ten-bosch">
+    <file name="portret-2-geerten.jpg" crc="2407511" seo="true" ref="geerten-ten-bosch:phone>geerten-ten-bosch">
       <caption webpage="geerten-ten-bosch" alt=""/>
     </file>
     <file name="u1870-10.png" crc="4168283430" ref="index"/>
     <file name="u1870-102.png" crc="3823068259" ref="index"/>
     <file name="u1870-103.png" crc="3876064873" ref="index"/>
     <file name="u1870-104.png" crc="4166240379" ref="index"/>
-    <file name="harriet.jpg" crc="90355376" seo="true" ref="harriët-van-reek">
+    <file name="harriet.jpg" crc="3795876069" seo="true" ref="harriët-van-reek:phone>harriët-van-reek">
       <caption webpage="harriët-van-reek" alt=""/>
     </file>
     <file name="u2171-6.png" crc="4294468492" ref="jesse-strikwerda"/>
@@ -378,9 +377,6 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="jesse-strikwerda" alt=""/>
-    </file>
-    <file name="harriet-2125x180.jpg" crc="3907583900" seo="true" ref="phone>index">
-      <caption webpage="index" alt=""/>
     </file>
     <file name="portret-jesse175x216.jpg" crc="4059846538" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
@@ -430,20 +426,24 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
+    <file name="harriet-2136x196.jpg" crc="4095752584" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u12710-4-a.png" crc="3759153634" ref="phone>jesse-strikwerda"/>
+    <file name="u12711-4.png" crc="91992124" ref="phone>jesse-strikwerda"/>
+    <file name="u12712-4.png" crc="3921628982" ref="phone>jesse-strikwerda"/>
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="jesse-strikwerda.css" crc="286893824" ref="phone>jesse-strikwerda"/>
-      <file name="index.css" crc="443214509" ref="phone>index"/>
-      <file name="harri_t-van-reek.css" crc="3937171854" ref="phone>harriët-van-reek"/>
-      <file name="geerten-ten-bosch.css" crc="342146149" ref="phone>geerten-ten-bosch"/>
-      <file name="nomq_harri_t-van-reek.css" crc="3824530138" ref="phone>harriët-van-reek"/>
-      <file name="nomq_jesse-strikwerda.css" crc="3824530138" ref="phone>jesse-strikwerda"/>
+      <file name="jesse-strikwerda.css" crc="3975508649" ref="phone>jesse-strikwerda"/>
+      <file name="index.css" crc="4262611468" ref="phone>index"/>
+      <file name="harri_t-van-reek.css" crc="236422464" ref="phone>harriët-van-reek"/>
+      <file name="geerten-ten-bosch.css" crc="3918557109" ref="phone>geerten-ten-bosch"/>
     </folder>
-    <file name="index.html" crc="286633010" seo="true" mt="1529576322842" redirect="true"/>
-    <file name="geerten-ten-bosch.html" crc="210364271" seo="true" mt="1529231481083" redirect="true"/>
-    <file name="harriët-van-reek.html" crc="3989516617" seo="true" mt="1529278740150" redirect="true"/>
-    <file name="jesse-strikwerda.html" crc="4083615105" seo="true" mt="1529576720532" redirect="true"/>
+    <file name="index.html" crc="253959897" seo="true" mt="1529577033114" redirect="true"/>
+    <file name="geerten-ten-bosch.html" crc="4244657630" seo="true" mt="1529577275106" redirect="true"/>
+    <file name="harriët-van-reek.html" crc="455875234" seo="true" mt="1529577141719" redirect="true"/>
+    <file name="jesse-strikwerda.html" crc="4249888823" seo="true" mt="1529577366556" redirect="true"/>
   </folder>
   <file name="geerten-ten-bosch.html" crc="374237223" seo="true" mt="1529570686055" redirect="true"/>
   <file name="index.html" crc="229742629" seo="true" mt="1529576024428" redirect="true"/>
