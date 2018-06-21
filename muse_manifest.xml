@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.hetschetboek.nl" resolutions="1x" timestamp="1529568726579">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.hetschetboek.nl" resolutions="1x" timestamp="1529569446748">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="geerten-ten-bosch.css" crc="4211935809" ref="geerten-ten-bosch"/>
@@ -429,7 +429,7 @@
     <file name="harriët-van-reek.html" crc="3989516617" seo="true" mt="1529278740150" redirect="true"/>
     <file name="jesse-strikwerda.html" crc="474829472" seo="true" mt="1529187002896" redirect="false"/>
   </folder>
-  <file name="geerten-ten-bosch.html" crc="3825810125" seo="true" mt="1529568668228" redirect="true"/>
+  <file name="geerten-ten-bosch.html" crc="367574936" seo="true" mt="1529569277309" redirect="true"/>
   <file name="index.html" crc="333809164" seo="true" mt="1529278798838" redirect="true"/>
   <file name="harriët-van-reek.html" crc="4024798608" seo="true" mt="1529274719590" redirect="true"/>
   <file name="jesse-strikwerda.html" crc="120485459" seo="true" mt="1529187767771" redirect="true"/>
