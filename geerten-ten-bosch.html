@@ -23,7 +23,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <title>Geerten Ten Bosch</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=443350757"/>
-  <link rel="stylesheet" type="text/css" href="css/geerten-ten-bosch.css?crc=4211935809" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/geerten-ten-bosch.css?crc=139293869" id="pagesheet"/>
    </head>
  <body>
 
@@ -848,6 +848,84 @@ var togglePlay10 = function() {
 
 
      </div>
+     <div class="grpelem" id="u12083"><!-- custom html -->
+      <!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script>
+var jeugd = new Audio();
+jeugd.src = 'https://raw.githubusercontent.com/ElisaCalamita/hetschetsboek/gh-pages/assets/1.mp3';
+
+var togglePlay1 = function() {
+  if (jeugd.paused) {
+    jeugd.play();
+  } else {
+    jeugd.pause();
+  }
+}
+</script>
+<style>
+.container {
+  position: relative;
+  width: 217;
+}
+
+.image {
+  display: block;
+  width: 217;
+  height: 305;
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 101%;
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: #5d3769;
+}
+
+.container:hover .overlay {
+  opacity: 1;
+}
+
+.text {
+  color: white;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+}
+</style>
+</head>
+<body>
+
+<div class="container">
+  <img src="images/13.jpg" alt="Avatar" class="image">
+  <div class="overlay">
+    <div class="text">1</div>
+<a href="#" onmousedown="togglePlay1()"><div class="overlay"><div class="overlay"></div><div class="text">1</div></a>
+
+</body>
+</div>
+</div>
+</div>
+
+</html>
+
+
+
+
+
+     </div>
      <div class="grpelem" id="u1852"><!-- custom html -->
       <!DOCTYPE html>
 <html>
@@ -1299,83 +1377,6 @@ var togglePlay17 = function() {
   <div class="overlay">
     <div class="text">17</div>
 <a href="#" onmousedown="togglePlay17()"><div class="overlay"><div class="overlay"></div><div class="text">17</div></a>
-
-</body>
-</div>
-</div>
-</div>
-
-</html>
-
-
-
-
-     </div>
-     <div class="grpelem" id="u1633"><!-- custom html -->
-      <!DOCTYPE html>
-<html>
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<script>
-var jeugd = new Audio();
-jeugd.src = 'https://raw.githubusercontent.com/ElisaCalamita/hetschetsboek/gh-pages/assets/1.mp3';
-
-var togglePlay1 = function() {
-  if (jeugd.paused) {
-   jeugd.play();
-  } else {
-    jeugd.pause();
-  }
-}
-</script>
-<style>
-.container {
-  position: relative;
-  width: 100%;
-}
-
-.image {
-  display: block;
-  width: 100%;
-  height: auto;
-}
-
-.overlay {
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  height: 100%;
-  width: 100%;
-  opacity: 0;
-  transition: .5s ease;
-  background-color: #5d3769;
-}
-
-.container:hover .overlay {
-  opacity: 1;
-}
-
-.text {
-  color: white;
-  font-size: 20px;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  -ms-transform: translate(-50%, -50%);
-  text-align: center;
-}
-</style>
-</head>
-<body>
-
-<div class="container">
-  <img src="images/13.jpg?crc=80249296" alt="Avatar" class="image">
-  <div class="overlay">
-    <div class="text">1</div>
-<a href="#" onmousedown="togglePlay1()"><div class="overlay"><div class="overlay"></div><div class="text">1</div></a>
 
 </body>
 </div>
