@@ -483,18 +483,6 @@ var togglePlay12 = function() {
   } else {
     poet.pause();
   } 
-
- private var allAudioSources : AudioSource[];
-  
- function Awake() {
-     allAudioSources = FindObjectsOfType(AudioSource) as AudioSource[];
- }
-  
- function StopAllAudio() {
-     for(var poet : AudioSource in allAudioSources) {
-         poet.Stop();
-     }
- }
 }
 </script>
 <style>
