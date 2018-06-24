@@ -44,7 +44,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
       <img class="colelem" id="u1194-4" alt="In Rotterdam Zuid bel ik aan bij een huis waar de letters voor het raam dansen. Mijn docent Illustratie Verhaal doet open. Ik betreed een huis waar genoeg ruimte is om beeld te maken in maar liefst drie ateliers. Harriët van Reek staat bekend als illustrator van kinderboeken. In 1986 won zij met haar debuut &quot;De avonturen van Lena lena&quot; de Gouden Griffel en een Vlag en Wimpel. Daar kwam in 2016 de Gouden Penseel bij voor het boek &quot;Lettersoep&quot;: een prijs waar menig illustrator van droomt. Naast kinderboeken heeft zij zich in haar jongere jaren bezig gehouden met het opvoeren en bedenken van theaterperformances met Geerten Ten Bosch onder de naam Banketje van Reek Ten Bosch. In dit beeldtheater werden performances gecreëerd met geluid, stoffen en gebeamde voorstellingen. Ik ben benieuwd hoe zij zich heeft genesteld in de wereld van de uitgevers met haar eigen categorie van eigenzinnige, &quot;rare&quot; verhalen vol letters. Daarnaast wil ik weten hoe Harriët een verhaal vertelt met haar woorden en beelden en gaan we dieper in op het poëtische." src="images/u1194-4.png?crc=16906654" data-image-width="546"/><!-- rasterized frame -->
      </div>
      <div class="clip_frame grpelem" id="u11768"><!-- image -->
-      <img class="block" id="u11768_img" src="images/harriet-crop-u11768.jpg?crc=4142031648" alt="" data-image-width="388" data-image-height="499"/>
+      <img class="block" id="u11768_img" src="images/harriet-crop-u11768.jpg?crc=4168865737" alt="" data-image-width="388" data-image-height="499"/>
      </div>
     </div>
     <div class="clearfix colelem" id="pppu1339"><!-- group -->
@@ -476,26 +476,14 @@ var togglePlay13 = function() {
 <script>
 var poet = new Audio();
 poet.src = 'https://raw.githubusercontent.com/ElisaCalamita/hetschetsboek/gh-pages/assets/12).mp3';
-var currentPlayer;
-function EvalSound(soundobj) {
 
- var poet=document.getElementById(soundobj);
- if(currentPlayer  && currentPlayer != poet) {
-  currentPlayer.pause(); 
- }
- if (poet.paused)
-        poet.play();
-    else
-    poet.pause();
-    poet.currentTime = 0;
-     currentPlayer = poet;
-}
 var togglePlay12 = function() {
   if (poet.paused) {
    poet.play();
   } else {
     poet.pause();
-  }
+    poet.currentTime = 0;
+     currentPlayer = poet;
 }
 </script>
 <style>
