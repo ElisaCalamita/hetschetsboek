@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://www.hetschetboek.nl/index.html</loc>
-    <lastmod>2018-06-24</lastmod>
+    <lastmod>2018-07-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://www.hetschetboek.nl/phone/index.html"/>
@@ -10,19 +10,7 @@
       <image:loc>http://www.hetschetboek.nl/images/hetschetsboek%20definitief.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.hetschetboek.nl/images/hetschetsboek%20definitief448x244.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.hetschetboek.nl/images/hetschetsboek%20definitief334x182.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.hetschetboek.nl/images/harriet.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.hetschetboek.nl/images/portret-jesse.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.hetschetboek.nl/images/hetschetsboek%20definitief816x445.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.hetschetboek.nl/images/portret-3-geerten.jpg</image:loc>
@@ -30,16 +18,10 @@
     <image:image>
       <image:loc>http://www.hetschetboek.nl/images/harriet-crop-u12774.jpg</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>http://www.hetschetboek.nl/images/harriet-crop-u127742.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.hetschetboek.nl/images/harriet-crop-u127743.jpg</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://www.hetschetboek.nl/jesse-strikwerda.html</loc>
-    <lastmod>2018-06-21</lastmod>
+    <lastmod>2018-07-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://www.hetschetboek.nl/phone/jesse-strikwerda.html"/>
@@ -60,9 +42,6 @@
     </image:image>
     <image:image>
       <image:loc>http://www.hetschetboek.nl/images/jesse5.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.hetschetboek.nl/images/jesse6.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.hetschetboek.nl/images/jesse8.jpg</image:loc>
@@ -86,9 +65,6 @@
       <image:loc>http://www.hetschetboek.nl/images/jesse5-crop-u3432.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.hetschetboek.nl/images/jesse6-crop-u3460.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.hetschetboek.nl/images/jesse8-crop-u3488.jpg</image:loc>
     </image:image>
     <image:image>
@@ -97,7 +73,7 @@
   </url>
   <url>
     <loc>http://www.hetschetboek.nl/harri%C3%ABt-van-reek.html</loc>
-    <lastmod>2018-06-24</lastmod>
+    <lastmod>2018-07-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://www.hetschetboek.nl/phone/harriët-van-reek.html"/>
@@ -170,7 +146,7 @@
   </url>
   <url>
     <loc>http://www.hetschetboek.nl/geerten-ten-bosch.html</loc>
-    <lastmod>2018-06-24</lastmod>
+    <lastmod>2018-07-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://www.hetschetboek.nl/phone/geerten-ten-bosch.html"/>
@@ -368,14 +344,14 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.hetschetboek.nl/assets/1.jpg</loc>
-    <lastmod>2018-05-24</lastmod>
+    <loc>http://www.hetschetboek.nl/assets/1).mp3</loc>
+    <lastmod>2018-06-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.hetschetboek.nl/assets/5.mp3</loc>
-    <lastmod>2018-05-28</lastmod>
+    <loc>http://www.hetschetboek.nl/assets/2).mp3</loc>
+    <lastmod>2018-06-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -386,14 +362,14 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.hetschetboek.nl/assets/4).mp3</loc>
-    <lastmod>2018-06-04</lastmod>
+    <loc>http://www.hetschetboek.nl/assets/1.jpg</loc>
+    <lastmod>2018-05-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.hetschetboek.nl/assets/5).mp3</loc>
-    <lastmod>2018-06-04</lastmod>
+    <loc>http://www.hetschetboek.nl/assets/5.mp3</loc>
+    <lastmod>2018-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -500,6 +476,42 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://www.hetschetboek.nl/assets/jessesstrik3.mp3</loc>
+    <lastmod>2018-07-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hetschetboek.nl/assets/jessesstrik9.mp3</loc>
+    <lastmod>2018-07-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hetschetboek.nl/assets/jessesstrik10.mp3</loc>
+    <lastmod>2018-07-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hetschetboek.nl/assets/jessesstrik15.mp3</loc>
+    <lastmod>2018-07-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hetschetboek.nl/assets/jessesstrik17.mp3</loc>
+    <lastmod>2018-07-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hetschetboek.nl/assets/jessestrik2.mp3</loc>
+    <lastmod>2018-07-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://www.hetschetboek.nl/assets/car-driving-interior-ambience.mp3</loc>
     <lastmod>2017-10-23</lastmod>
     <changefreq>weekly</changefreq>
@@ -512,13 +524,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.hetschetboek.nl/assets/1).mp3</loc>
+    <loc>http://www.hetschetboek.nl/assets/4).mp3</loc>
     <lastmod>2018-06-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.hetschetboek.nl/assets/2).mp3</loc>
+    <loc>http://www.hetschetboek.nl/assets/5).mp3</loc>
     <lastmod>2018-06-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
