@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.hetschetboek.nl" resolutions="1x" timestamp="1530466051478">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.hetschetboek.nl" resolutions="1x" timestamp="1530484566462">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="geerten-ten-bosch.css" crc="3767521597" ref="geerten-ten-bosch"/>
@@ -9,7 +9,6 @@
   </folder>
   <folder name="assets">
     <file name="car-driving-interior-ambience.mp3" crc="373872107" seo="true" mt="1508788337000"/>
-    <file name="masker.mp3" crc="4083224759" seo="true" mt="1520895742000"/>
     <file name="1-3" crc="145504588" seo="true" mt="1527463948000"/>
     <file name="1.jpg" crc="353664002" seo="true" mt="1527174169000"/>
     <file name="5.mp3" crc="3993942587" seo="true" mt="1527543699000"/>
@@ -54,12 +53,12 @@
     <file name="19).mp3" crc="4253551120" seo="true" mt="1528121912000"/>
     <file name="12.mp3" crc="3999395421" seo="true" mt="1527936740000"/>
     <file name="jessestrik1-v2.wav" crc="3864151184" seo="true" mt="1529443631000"/>
-    <file name="jessesstrik3.mp3" crc="3940244179" seo="true" mt="1530444258000"/>
-    <file name="jessesstrik9.mp3" crc="50180146" seo="true" mt="1530444259000"/>
-    <file name="jessesstrik10.mp3" crc="3930999962" seo="true" mt="1530444250000"/>
-    <file name="jessesstrik15.mp3" crc="369219110" seo="true" mt="1530444254000"/>
-    <file name="jessesstrik17.mp3" crc="4250421640" seo="true" mt="1530444256000"/>
-    <file name="jessestrik2.mp3" crc="18690578" seo="true" mt="1530444261000"/>
+    <file name="jessesstrik3.mp3" crc="116127915" seo="true" mt="1530482237000"/>
+    <file name="jessesstrik9.mp3" crc="4083083313" seo="true" mt="1530482239000"/>
+    <file name="jessesstrik10.mp3" crc="420714946" seo="true" mt="1530482232000"/>
+    <file name="jessesstrik15.mp3" crc="235529398" seo="true" mt="1530482234000"/>
+    <file name="jessesstrik17.mp3" crc="3766147156" seo="true" mt="1530482237000"/>
+    <file name="jessestrik2.mp3" crc="4074062945" seo="true" mt="1530482241000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>geerten-ten-bosch:phone>harriët-van-reek:phone>jesse-strikwerda:geerten-ten-bosch:index:harriët-van-reek:jesse-strikwerda"/>

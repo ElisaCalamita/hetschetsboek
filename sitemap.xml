@@ -20,58 +20,6 @@
     </image:image>
   </url>
   <url>
-    <loc>http://www.hetschetboek.nl/jesse-strikwerda.html</loc>
-    <lastmod>2018-07-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://www.hetschetboek.nl/phone/jesse-strikwerda.html"/>
-    <image:image>
-      <image:loc>http://www.hetschetboek.nl/images/jesse1.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.hetschetboek.nl/images/jesse2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.hetschetboek.nl/images/jesse3.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.hetschetboek.nl/images/jesse4.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.hetschetboek.nl/images/jesse7.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.hetschetboek.nl/images/jesse5.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.hetschetboek.nl/images/jesse8.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.hetschetboek.nl/images/jesse160x47.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.hetschetboek.nl/images/jesse267x45.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.hetschetboek.nl/images/jesse3-crop-u3317.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.hetschetboek.nl/images/jesse4-crop-u3376.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.hetschetboek.nl/images/jesse760x49.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.hetschetboek.nl/images/jesse5-crop-u3432.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.hetschetboek.nl/images/jesse8-crop-u3488.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.hetschetboek.nl/images/portret-jesse.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
     <loc>http://www.hetschetboek.nl/harri%C3%ABt-van-reek.html</loc>
     <lastmod>2018-07-01</lastmod>
     <changefreq>weekly</changefreq>
@@ -142,6 +90,58 @@
     </image:image>
     <image:image>
       <image:loc>http://www.hetschetboek.nl/images/harriet-crop-u11768.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://www.hetschetboek.nl/jesse-strikwerda.html</loc>
+    <lastmod>2018-07-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://www.hetschetboek.nl/phone/jesse-strikwerda.html"/>
+    <image:image>
+      <image:loc>http://www.hetschetboek.nl/images/jesse1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.hetschetboek.nl/images/jesse2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.hetschetboek.nl/images/jesse3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.hetschetboek.nl/images/jesse4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.hetschetboek.nl/images/jesse7.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.hetschetboek.nl/images/jesse5.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.hetschetboek.nl/images/jesse8.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.hetschetboek.nl/images/jesse160x47.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.hetschetboek.nl/images/jesse267x45.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.hetschetboek.nl/images/jesse3-crop-u3317.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.hetschetboek.nl/images/jesse4-crop-u3376.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.hetschetboek.nl/images/jesse760x49.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.hetschetboek.nl/images/jesse5-crop-u3432.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.hetschetboek.nl/images/jesse8-crop-u3488.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.hetschetboek.nl/images/portret-jesse.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -222,12 +222,6 @@
     <image:image>
       <image:loc>http://www.hetschetboek.nl/images/portret-2-geerten.jpg</image:loc>
     </image:image>
-  </url>
-  <url>
-    <loc>http://www.hetschetboek.nl/assets/1-3</loc>
-    <lastmod>2018-05-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.hetschetboek.nl/assets/8.mp3</loc>
@@ -362,8 +356,8 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.hetschetboek.nl/assets/1.jpg</loc>
-    <lastmod>2018-05-24</lastmod>
+    <loc>http://www.hetschetboek.nl/assets/1-3</loc>
+    <lastmod>2018-05-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -512,20 +506,20 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.hetschetboek.nl/assets/car-driving-interior-ambience.mp3</loc>
-    <lastmod>2017-10-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.hetschetboek.nl/assets/masker.mp3</loc>
-    <lastmod>2018-03-13</lastmod>
+    <loc>http://www.hetschetboek.nl/assets/1.jpg</loc>
+    <lastmod>2018-05-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.hetschetboek.nl/assets/4).mp3</loc>
     <lastmod>2018-06-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.hetschetboek.nl/assets/car-driving-interior-ambience.mp3</loc>
+    <lastmod>2017-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
