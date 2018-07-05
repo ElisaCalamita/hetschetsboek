@@ -16,7 +16,7 @@
 document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
 
 // Check that all required assets are uploaded and up-to-date
-if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "require.js", "jquery.watch.js", "webpro.js", "musewpslideshow.js", "jquery.museoverlay.js", "touchswipe.js", "geerten-ten-bosch.css"], "outOfDate":[]};
+if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "webpro.js", "musewpslideshow.js", "jquery.museoverlay.js", "touchswipe.js", "jquery.watch.js", "require.js", "geerten-ten-bosch.css"], "outOfDate":[]};
 </script>
   
   <link rel="canonical" href="http://www.hetschetboek.nl/geerten-ten-bosch.html"/>
@@ -24,7 +24,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="../css/site_global.css?crc=443350757"/>
   <link rel="stylesheet" type="text/css" href="css/master_a-stramien.css?crc=496660354"/>
-  <link rel="stylesheet" type="text/css" href="css/geerten-ten-bosch.css?crc=44844881" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/geerten-ten-bosch.css?crc=3979430795" id="pagesheet"/>
    </head>
  <body>
 
@@ -1376,81 +1376,6 @@ var togglePlay3 = function() {
 
 
     </div>
-    <div class="grpelem" id="u16801"><!-- custom html -->
-     <!DOCTYPE html>
-<html>
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<script>
-var audio = new Audio();
-audio.src = '/Users/ElisaCalamita/Documents/MuseExport/hetschetsboek/assets/13.mp3';
-
-var togglePlay13 = function() {
-  if (audio.paused) {
-    audio.play();
-  } else {
-    audio.pause();
-  }
-}
-</script>
-<style>
-.container {
-  position: relative;
-  width: 285;
-}
-
-.image {
-  display: block;
-  width: 285;
-  height: 202;
-}
-
-.overlay {
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  height: 101%;
-  width: 100%;
-  opacity: 0;
-  transition: .5s ease;
-  background-color: #5d3769;
-}
-
-.container:hover .overlay {
-  opacity: 0;
-}
-
-.text {
-  color: white;
-  font-size: 20px;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  -ms-transform: translate(-50%, -50%);
-  text-align: center;
-}
-</style>
-</head>
-<body>
-
-<div class="container">
-  <img src="../images/13.jpg?crc=176266378" alt="Avatar" class="image">
-  <div class="overlay">
-    <div class="text">3</div>
-<a href="#" onmousedown="togglePlay13()"><div class="overlay"><div class="overlay"></div><div class="text">13</div></a>
-
-</body>
-</div>
-</div>
-</div>
-
-</html>
-
-
-    </div>
     <div class="grpelem" id="u16806"><!-- custom html -->
      <!DOCTYPE html>
 <html>
@@ -1826,6 +1751,81 @@ var togglePlay19 = function() {
   <div class="overlay">
     <div class="text">19</div>
 <a href="#" onmousedown="togglePlay19()"><div class="overlay"><div class="overlay"></div><div class="text">19</div></a>
+
+</body>
+</div>
+</div>
+</div>
+
+</html>
+
+
+    </div>
+    <div class="grpelem" id="u17096"><!-- custom html -->
+     <!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script>
+var audio = new Audio();
+audio.src = 'https://raw.githubusercontent.com/ElisaCalamita/hetschetsboek/gh-pages/assets/13.mp3';
+
+var togglePlay13 = function() {
+  if (audio.paused) {
+    audio.play();
+  } else {
+    audio.pause();
+  }
+}
+</script>
+<style>
+.container {
+  position: relative;
+  width: 285;
+}
+
+.image {
+  display: block;
+  width: 285;
+  height: 202;
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 101%;
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: #5d3769;
+}
+
+.container:hover .overlay {
+  opacity: 1;
+}
+
+.text {
+  color: white;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+}
+</style>
+</head>
+<body>
+
+<div class="container">
+  <img src="images/3.jpg?crc=4250102909" alt="Avatar" class="image">
+  <div class="overlay">
+    <div class="text">3</div>
+<a href="#" onmousedown="togglePlay13()"><div class="overlay"><div class="overlay"></div><div class="text">13</div></a>
 
 </body>
 </div>
