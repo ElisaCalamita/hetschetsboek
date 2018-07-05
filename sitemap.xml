@@ -2,10 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://www.hetschetboek.nl/index.html</loc>
-    <lastmod>2018-07-01</lastmod>
+    <lastmod>2018-07-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://www.hetschetboek.nl/phone/index.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://www.hetschetboek.nl/tablet/index.html"/>
     <image:image>
       <image:loc>http://www.hetschetboek.nl/images/hetschetsboek%20definitief.png</image:loc>
     </image:image>
@@ -21,10 +22,11 @@
   </url>
   <url>
     <loc>http://www.hetschetboek.nl/harri%C3%ABt-van-reek.html</loc>
-    <lastmod>2018-07-01</lastmod>
+    <lastmod>2018-07-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://www.hetschetboek.nl/phone/harriët-van-reek.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://www.hetschetboek.nl/tablet/harriët-van-reek.html"/>
     <image:image>
       <image:loc>http://www.hetschetboek.nl/images/harriet20.jpg</image:loc>
     </image:image>
@@ -94,10 +96,11 @@
   </url>
   <url>
     <loc>http://www.hetschetboek.nl/jesse-strikwerda.html</loc>
-    <lastmod>2018-07-01</lastmod>
+    <lastmod>2018-07-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://www.hetschetboek.nl/phone/jesse-strikwerda.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://www.hetschetboek.nl/tablet/jesse-strikwerda.html"/>
     <image:image>
       <image:loc>http://www.hetschetboek.nl/images/jesse1.jpg</image:loc>
     </image:image>
@@ -120,19 +123,10 @@
       <image:loc>http://www.hetschetboek.nl/images/jesse8.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.hetschetboek.nl/images/jesse160x47.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.hetschetboek.nl/images/jesse267x45.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.hetschetboek.nl/images/jesse3-crop-u3317.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.hetschetboek.nl/images/jesse4-crop-u3376.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.hetschetboek.nl/images/jesse760x49.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.hetschetboek.nl/images/jesse5-crop-u3432.jpg</image:loc>
@@ -146,10 +140,11 @@
   </url>
   <url>
     <loc>http://www.hetschetboek.nl/geerten-ten-bosch.html</loc>
-    <lastmod>2018-07-01</lastmod>
+    <lastmod>2018-07-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://www.hetschetboek.nl/phone/geerten-ten-bosch.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://www.hetschetboek.nl/tablet/geerten-ten-bosch.html"/>
     <image:image>
       <image:loc>http://www.hetschetboek.nl/images/13.jpg</image:loc>
     </image:image>
