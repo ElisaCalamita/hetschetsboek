@@ -8,16 +8,16 @@
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://www.hetschetboek.nl/phone/index.html"/>
     <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://www.hetschetboek.nl/tablet/index.html"/>
     <image:image>
-      <image:loc>http://www.hetschetboek.nl/images/portret-jesse.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.hetschetboek.nl/images/portret-3-geerten.jpg</image:loc>
+      <image:loc>http://www.hetschetboek.nl/images/hetschetsboek%20definitief-crop-u1857.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.hetschetboek.nl/images/harriet-crop-u12774.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.hetschetboek.nl/images/hetschetsboek%20definitief-crop-u1857.png</image:loc>
+      <image:loc>http://www.hetschetboek.nl/images/portret-jesse.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.hetschetboek.nl/images/portret-3-geerten.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -28,31 +28,49 @@
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://www.hetschetboek.nl/phone/harriët-van-reek.html"/>
     <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://www.hetschetboek.nl/tablet/harriët-van-reek.html"/>
     <image:image>
+      <image:loc>http://www.hetschetboek.nl/images/harriet%20van%20reek%20tekst.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.hetschetboek.nl/images/harriet3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.hetschetboek.nl/images/harriet6.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.hetschetboek.nl/images/harriet10.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.hetschetboek.nl/images/harriet12.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.hetschetboek.nl/images/harriet8.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.hetschetboek.nl/images/harriet13.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.hetschetboek.nl/images/harriet9.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://www.hetschetboek.nl/images/harriet20.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.hetschetboek.nl/images/harriet1.jpg</image:loc>
+      <image:loc>http://www.hetschetboek.nl/images/harriet7.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.hetschetboek.nl/images/harriet19.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.hetschetboek.nl/images/harriet-crop-u11768.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.hetschetboek.nl/images/harriet1.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.hetschetboek.nl/images/harriet4-crop-u1389.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.hetschetboek.nl/images/harriet5.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.hetschetboek.nl/images/harriet6.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.hetschetboek.nl/images/harriet7.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.hetschetboek.nl/images/harriet8.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.hetschetboek.nl/images/harriet9.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.hetschetboek.nl/images/harriet14.jpg</image:loc>
@@ -67,31 +85,13 @@
       <image:loc>http://www.hetschetboek.nl/images/harriet11.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.hetschetboek.nl/images/harriet12.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.hetschetboek.nl/images/harriet10.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.hetschetboek.nl/images/harriet2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.hetschetboek.nl/images/harriet3.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.hetschetboek.nl/images/harriet13.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.hetschetboek.nl/images/harriet17.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.hetschetboek.nl/images/harriet15.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.hetschetboek.nl/images/harriet%20van%20reek%20tekst.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.hetschetboek.nl/images/harriet-crop-u11768.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -102,22 +102,25 @@
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://www.hetschetboek.nl/phone/jesse-strikwerda.html"/>
     <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://www.hetschetboek.nl/tablet/jesse-strikwerda.html"/>
     <image:image>
-      <image:loc>http://www.hetschetboek.nl/images/jesse1.jpg</image:loc>
+      <image:loc>http://www.hetschetboek.nl/images/jesse4.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.hetschetboek.nl/images/jesse2.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://www.hetschetboek.nl/images/jesse1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.hetschetboek.nl/images/portret-jesse.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://www.hetschetboek.nl/images/jesse3.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.hetschetboek.nl/images/jesse4.jpg</image:loc>
+      <image:loc>http://www.hetschetboek.nl/images/jesse5.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.hetschetboek.nl/images/jesse7.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.hetschetboek.nl/images/jesse5.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.hetschetboek.nl/images/jesse8.jpg</image:loc>
@@ -134,9 +137,6 @@
     <image:image>
       <image:loc>http://www.hetschetboek.nl/images/jesse8-crop-u3488.jpg</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>http://www.hetschetboek.nl/images/portret-jesse.jpg</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://www.hetschetboek.nl/geerten-ten-bosch.html</loc>
@@ -145,6 +145,12 @@
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://www.hetschetboek.nl/phone/geerten-ten-bosch.html"/>
     <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://www.hetschetboek.nl/tablet/geerten-ten-bosch.html"/>
+    <image:image>
+      <image:loc>http://www.hetschetboek.nl/images/geerten%20ten%20bosch%20tekst.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.hetschetboek.nl/images/portret-2-geerten.jpg</image:loc>
+    </image:image>
     <image:image>
       <image:loc>http://www.hetschetboek.nl/images/13.jpg</image:loc>
     </image:image>
@@ -210,12 +216,6 @@
     </image:image>
     <image:image>
       <image:loc>http://www.hetschetboek.nl/images/22.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.hetschetboek.nl/images/geerten%20ten%20bosch%20tekst.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.hetschetboek.nl/images/portret-2-geerten.jpg</image:loc>
     </image:image>
   </url>
   <url>
