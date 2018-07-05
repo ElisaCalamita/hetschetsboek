@@ -6,6 +6,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://www.hetschetboek.nl/phone/index.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://www.hetschetboek.nl/tablet/index.html"/>
     <image:image>
       <image:loc>http://www.hetschetboek.nl/images/hetschetsboek%20definitief-crop-u1857.png</image:loc>
     </image:image>
@@ -25,6 +26,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://www.hetschetboek.nl/phone/harriët-van-reek.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://www.hetschetboek.nl/tablet/harriët-van-reek.html"/>
     <image:image>
       <image:loc>http://www.hetschetboek.nl/images/harriet%20van%20reek%20tekst.png</image:loc>
     </image:image>
@@ -98,6 +100,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://www.hetschetboek.nl/phone/jesse-strikwerda.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://www.hetschetboek.nl/tablet/jesse-strikwerda.html"/>
     <image:image>
       <image:loc>http://www.hetschetboek.nl/images/jesse4.jpg</image:loc>
     </image:image>
@@ -150,6 +153,7 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://www.hetschetboek.nl/phone/geerten-ten-bosch.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://www.hetschetboek.nl/tablet/geerten-ten-bosch.html"/>
     <image:image>
       <image:loc>http://www.hetschetboek.nl/images/geerten%20ten%20bosch%20tekst.png</image:loc>
     </image:image>
